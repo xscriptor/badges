@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="nixos">
   <title>nixos</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#1faa9e"/>
-    <rect x="35" width="62.5" height="28" fill="#c0bbae"/>
+    <rect width="35" height="28" fill="#5ad4e6"/>
+    <rect x="35" width="62.5" height="28" fill="#161b22"/>
   </g>
-  <g fill="#191919" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
          <g transform="translate(9.5, 7.0)">
-             <rect x="0" y="0" width="16" height="11" rx="1" fill="#191919"/>
-             <rect x="5" y="12" width="6" height="2" fill="#191919"/>
+             <rect x="0" y="0" width="16" height="11" rx="1" fill="#ffffff"/>
+             <rect x="5" y="12" width="6" height="2" fill="#ffffff"/>
          </g>
          
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#191919">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="66.25" y="19.0" font-weight="bold" fill="#191919">nixos</text>
+    <text x="66.25" y="19.0" font-weight="bold" fill="#ffffff">nixos</text>
   </g>
 </svg>

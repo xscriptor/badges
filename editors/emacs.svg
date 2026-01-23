@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="emacs">
   <title>emacs</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#e05561"/>
-    <rect x="35" width="62.5" height="28" fill="#3f4451"/>
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="62.5" height="28" fill="#161b22"/>
   </g>
-  <g fill="#e6e6e6" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
              <g transform="translate(11.5, 7.0)">
-                <text x="6" y="12" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="14" fill="#e6e6e6">E</text>
+                <text x="6" y="12" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="14" fill="#ffffff">E</text>
              </g>
              
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#e6e6e6">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="66.25" y="19.0" font-weight="bold" fill="#e6e6e6">emacs</text>
+    <text x="66.25" y="19.0" font-weight="bold" fill="#ffffff">emacs</text>
   </g>
 </svg>

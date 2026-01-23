@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="tether">
   <title>tether</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#333333"/>
-    <rect x="35" width="71.0" height="28" fill="#000000"/>
+    <rect width="35" height="28" fill="#fd9353"/>
+    <rect x="35" width="71.0" height="28" fill="#161b22"/>
   </g>
-  <g fill="#999999" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
          <g transform="translate(10.5, 7.0)">
-            <circle cx="7" cy="7" r="6" stroke="#999999" stroke-width="1.5" fill="none"/>
-            <text x="7" y="10" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="8" fill="#999999">₿</text>
+            <circle cx="7" cy="7" r="6" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+            <text x="7" y="10" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="8" fill="#ffffff">₿</text>
          </g>
          
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#999999">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="70.5" y="19.0" font-weight="bold" fill="#999999">tether</text>
+    <text x="70.5" y="19.0" font-weight="bold" fill="#ffffff">tether</text>
   </g>
 </svg>

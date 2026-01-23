@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="140.0" height="28" role="img" aria-label="purescript">
   <title>purescript</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#999999"/>
-    <rect x="35" width="105.0" height="28" fill="#000000"/>
+    <rect width="35" height="28" fill="#5ad4e6"/>
+    <rect x="35" width="105.0" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->

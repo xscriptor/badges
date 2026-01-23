@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="figma">
   <title>figma</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#333333"/>
-    <rect x="35" width="62.5" height="28" fill="#000000"/>
+    <rect width="35" height="28" fill="#948ae3"/>
+    <rect x="35" width="62.5" height="28" fill="#161b22"/>
   </g>
-  <g fill="#999999" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
              <g transform="translate(11.5, 6.0)">
-                 <circle cx="3" cy="3" r="3" fill="#999999"/>
-                 <circle cx="9" cy="3" r="3" fill="#999999"/>
-                 <circle cx="3" cy="9" r="3" fill="#999999"/>
-                 <circle cx="3" cy="15" r="3" fill="#999999"/>
-                 <circle cx="9" cy="9" r="3" fill="#999999"/>
+                 <circle cx="3" cy="3" r="3" fill="#ffffff"/>
+                 <circle cx="9" cy="3" r="3" fill="#ffffff"/>
+                 <circle cx="3" cy="9" r="3" fill="#ffffff"/>
+                 <circle cx="3" cy="15" r="3" fill="#ffffff"/>
+                 <circle cx="9" cy="9" r="3" fill="#ffffff"/>
              </g>
              
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#999999">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="66.25" y="19.0" font-weight="bold" fill="#999999">figma</text>
+    <text x="66.25" y="19.0" font-weight="bold" fill="#ffffff">figma</text>
   </g>
 </svg>

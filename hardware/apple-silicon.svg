@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="165.5" height="28" role="img" aria-label="apple-silicon">
   <title>apple-silicon</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#fc618d"/>
-    <rect x="35" width="130.5" height="28" fill="#222222"/>
+    <rect width="35" height="28" fill="#fce566"/>
+    <rect x="35" width="130.5" height="28" fill="#161b22"/>
   </g>
-  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
-    <text x="17.5" y="18.0" font-weight="bold" font-family="sans-serif" font-size="10" fill="#f7f1ff">M1</text>
+    <text x="17.5" y="18.0" font-weight="bold" font-family="sans-serif" font-size="10" fill="#ffffff">M1</text>
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="100.25" y="19.0" font-weight="bold" fill="#f7f1ff">apple-silicon</text>
+    <text x="100.25" y="19.0" font-weight="bold" fill="#ffffff">apple-silicon</text>
   </g>
 </svg>

@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="rider">
   <title>rider</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#999999"/>
-    <rect x="35" width="62.5" height="28" fill="#000000"/>
+    <rect width="35" height="28" fill="#5ad4e6"/>
+    <rect x="35" width="62.5" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
              <g transform="translate(9.5, 6.0)">
                 <rect x="0" y="0" width="16" height="16" rx="2" fill="#ffffff"/>
-                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="#999999">RD</text>
+                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="#5ad4e6">RD</text>
              </g>
              
     

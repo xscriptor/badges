@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="ruby">
   <title>ruby</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#333333"/>
-    <rect x="35" width="54.0" height="28" fill="#000000"/>
+    <rect width="35" height="28" fill="#fd9353"/>
+    <rect x="35" width="54.0" height="28" fill="#161b22"/>
   </g>
-  <g fill="#999999" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
              <g transform="translate(10.5, 7.0)">
-                 <path d="M4,0 L10,0 L14,5 L7,14 L0,5 Z" fill="#999999" />
-                 <path d="M4,0 L7,5 M10,0 L7,5 M0,5 L14,5" stroke="#333333" stroke-width="0.5"/>
+                 <path d="M4,0 L10,0 L14,5 L7,14 L0,5 Z" fill="#ffffff" />
+                 <path d="M4,0 L7,5 M10,0 L7,5 M0,5 L14,5" stroke="#fd9353" stroke-width="0.5"/>
              </g>
              
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#999999">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="62.0" y="19.0" font-weight="bold" fill="#999999">ruby</text>
+    <text x="62.0" y="19.0" font-weight="bold" fill="#ffffff">ruby</text>
   </g>
 </svg>

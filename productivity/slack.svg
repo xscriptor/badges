@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="slack">
   <title>slack</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#e05561"/>
-    <rect x="35" width="62.5" height="28" fill="#3f4451"/>
+    <rect width="35" height="28" fill="#7bd88f"/>
+    <rect x="35" width="62.5" height="28" fill="#161b22"/>
   </g>
-  <g fill="#e6e6e6" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
-    <text x="17.5" y="18.0" font-weight="bold" font-family="sans-serif" font-size="10" fill="#e6e6e6">#</text>
+    <text x="17.5" y="18.0" font-weight="bold" font-family="sans-serif" font-size="10" fill="#ffffff">#</text>
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#e6e6e6">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="66.25" y="19.0" font-weight="bold" fill="#e6e6e6">slack</text>
+    <text x="66.25" y="19.0" font-weight="bold" fill="#ffffff">slack</text>
   </g>
 </svg>

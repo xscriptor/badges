@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="80.5" height="28" role="img" aria-label="arc">
   <title>arc</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#1faa9e"/>
-    <rect x="35" width="45.5" height="28" fill="#c0bbae"/>
+    <rect width="35" height="28" fill="#fce566"/>
+    <rect x="35" width="45.5" height="28" fill="#161b22"/>
   </g>
-  <g fill="#191919" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
          <g transform="translate(9.5, 6.0)">
-            <circle cx="8" cy="8" r="7" stroke="#191919" stroke-width="1.5" fill="none"/>
-            <path d="M1,8 L15,8 M8,1 L8,15 M2,5 Q8,10 14,5 M2,11 Q8,6 14,11" stroke="#191919" stroke-width="1" fill="none"/>
+            <circle cx="8" cy="8" r="7" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+            <path d="M1,8 L15,8 M8,1 L8,15 M2,5 Q8,10 14,5 M2,11 Q8,6 14,11" stroke="#ffffff" stroke-width="1" fill="none"/>
          </g>
          
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#191919">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="57.75" y="19.0" font-weight="bold" fill="#191919">arc</text>
+    <text x="57.75" y="19.0" font-weight="bold" fill="#ffffff">arc</text>
   </g>
 </svg>

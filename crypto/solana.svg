@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="solana">
   <title>solana</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#fc618d"/>
-    <rect x="35" width="71.0" height="28" fill="#363537"/>
+    <rect width="35" height="28" fill="#fce566"/>
+    <rect x="35" width="71.0" height="28" fill="#161b22"/>
   </g>
-  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
          <g transform="translate(10.5, 7.0)">
-            <circle cx="7" cy="7" r="6" stroke="#f7f1ff" stroke-width="1.5" fill="none"/>
-            <text x="7" y="10" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="8" fill="#f7f1ff">₿</text>
+            <circle cx="7" cy="7" r="6" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+            <text x="7" y="10" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="8" fill="#ffffff">₿</text>
          </g>
          
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="70.5" y="19.0" font-weight="bold" fill="#f7f1ff">solana</text>
+    <text x="70.5" y="19.0" font-weight="bold" fill="#ffffff">solana</text>
   </g>
 </svg>

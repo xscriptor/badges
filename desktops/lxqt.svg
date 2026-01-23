@@ -2,21 +2,21 @@
   <title>lxqt</title>
   <g shape-rendering="crispEdges">
     <rect width="35" height="28" fill="#fc618d"/>
-    <rect x="35" width="54.0" height="28" fill="#363537"/>
+    <rect x="35" width="54.0" height="28" fill="#161b22"/>
   </g>
-  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
             <g transform="translate(10.5, 6.0)">
-                <path d="M7,0 C4,0 3,3 3,5 L1,8 L3,14 L6,16 L8,16 L11,14 L13,8 L11,5 C11,3 10,0 7,0 Z" fill="#f7f1ff"/>
+                <path d="M7,0 C4,0 3,3 3,5 L1,8 L3,14 L6,16 L8,16 L11,14 L13,8 L11,5 C11,3 10,0 7,0 Z" fill="#ffffff"/>
                 <path d="M5,4 C5,4 6,5 8,5 C10,5 11,4 11,4" stroke="#fc618d" stroke-width="0.5" fill="none"/>
             </g>
          
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="62.0" y="19.0" font-weight="bold" fill="#f7f1ff">lxqt</text>
+    <text x="62.0" y="19.0" font-weight="bold" fill="#ffffff">lxqt</text>
   </g>
 </svg>

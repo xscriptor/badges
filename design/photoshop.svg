@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="131.5" height="28" role="img" aria-label="photoshop">
   <title>photoshop</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#FF5555"/>
-    <rect x="35" width="96.5" height="28" fill="#1A1A1A"/>
+    <rect width="35" height="28" fill="#fd9353"/>
+    <rect x="35" width="96.5" height="28" fill="#161b22"/>
   </g>
-  <g fill="#FFFFFF" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
-    <text x="17.5" y="18.0" font-weight="bold" font-family="sans-serif" font-size="10" fill="#FFFFFF">Ps</text>
+    <text x="17.5" y="18.0" font-weight="bold" font-family="sans-serif" font-size="10" fill="#ffffff">Ps</text>
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#FFFFFF">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="83.25" y="19.0" font-weight="bold" fill="#FFFFFF">photoshop</text>
+    <text x="83.25" y="19.0" font-weight="bold" fill="#ffffff">photoshop</text>
   </g>
 </svg>

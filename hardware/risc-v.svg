@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="risc-v">
   <title>risc-v</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#e05561"/>
-    <rect x="35" width="71.0" height="28" fill="#3f4451"/>
+    <rect width="35" height="28" fill="#fce566"/>
+    <rect x="35" width="71.0" height="28" fill="#161b22"/>
   </g>
-  <g fill="#e6e6e6" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
          <g transform="translate(10.5, 7.0)">
-            <rect x="2" y="2" width="10" height="10" fill="#e6e6e6"/>
-            <path d="M2,4 L0,4 M2,7 L0,7 M2,10 L0,10 M4,2 L4,0 M7,2 L7,0 M10,2 L10,0 M12,4 L14,4 M12,7 L14,7 M12,10 L14,10 M4,12 L4,14 M7,12 L7,14 M10,12 L10,14" stroke="#e6e6e6" stroke-width="1.5"/>
+            <rect x="2" y="2" width="10" height="10" fill="#ffffff"/>
+            <path d="M2,4 L0,4 M2,7 L0,7 M2,10 L0,10 M4,2 L4,0 M7,2 L7,0 M10,2 L10,0 M12,4 L14,4 M12,7 L14,7 M12,10 L14,10 M4,12 L4,14 M7,12 L7,14 M10,12 L10,14" stroke="#ffffff" stroke-width="1.5"/>
          </g>
          
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#e6e6e6">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="70.5" y="19.0" font-weight="bold" fill="#e6e6e6">risc-v</text>
+    <text x="70.5" y="19.0" font-weight="bold" fill="#ffffff">risc-v</text>
   </g>
 </svg>

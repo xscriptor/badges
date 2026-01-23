@@ -568,9 +568,3 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 </details>
 
-
-<p>Related files</p>
-
-- [Automation](./generate_badges.py)
-- [Badges Structure](./badges.json)
-- [Color schemes](./references.md)

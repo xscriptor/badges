@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="atom">
   <title>atom</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#333333"/>
-    <rect x="35" width="54.0" height="28" fill="#000000"/>
+    <rect width="35" height="28" fill="#fd9353"/>
+    <rect x="35" width="54.0" height="28" fill="#161b22"/>
   </g>
-  <g fill="#999999" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
              <g transform="translate(17.5, 14.0)">
-                <circle r="2" fill="#999999"/>
-                <ellipse rx="8" ry="3" stroke="#999999" stroke-width="1" fill="none" transform="rotate(20)"/>
-                <ellipse rx="8" ry="3" stroke="#999999" stroke-width="1" fill="none" transform="rotate(-20)"/>
-                <circle cx="0" cy="-6" r="1" fill="#999999"/>
+                <circle r="2" fill="#ffffff"/>
+                <ellipse rx="8" ry="3" stroke="#ffffff" stroke-width="1" fill="none" transform="rotate(20)"/>
+                <ellipse rx="8" ry="3" stroke="#ffffff" stroke-width="1" fill="none" transform="rotate(-20)"/>
+                <circle cx="0" cy="-6" r="1" fill="#ffffff"/>
              </g>
              
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#999999">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="62.0" y="19.0" font-weight="bold" fill="#999999">atom</text>
+    <text x="62.0" y="19.0" font-weight="bold" fill="#ffffff">atom</text>
   </g>
 </svg>

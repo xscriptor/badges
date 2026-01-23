@@ -35,15 +35,13 @@ def parse_palettes(file_path):
                  
     return palettes
 
-def create_badge(text, palette, output_path, icon_type="terminal"):
-    # Palette colors usage:
-    # background left: color1 (Red/Pink/Accent)
-    # background right: color0 (Dark)
-    # text/icon: color7 (Light)
-    
-    bg_left = palette.get('color1', '#fc618d')
-    bg_right = palette.get('color0', '#363537') 
-    text_color = palette.get('color7', '#f7f1ff')
+def create_badge(text, bg_color, output_path, icon_type="terminal"):
+    # Style configuration
+    # bg_left is the vibrant color passed in
+    bg_left = bg_color
+    # bg_right is the text background - using dark hex matching the theme
+    bg_right = "#161b22" 
+    text_color = "#ffffff"
     
     # SVG Dimensions
     height = 28
@@ -1404,9 +1402,26 @@ def main():
         if not os.path.exists(path):
             os.makedirs(path)
         
-    palettes = parse_palettes(references_path)
-    if not palettes:
-        print("No palettes found.")
+    # Hardcode to use only the "X" palette and filter for vibrant colors
+    # We ignore the parse_palettes function results effectively, or rather we manually define the palette
+    # based on the X scheme in references.md to ensure absolute correctness.
+    
+    # X Scheme Colors (Vibrant Subset)
+    # color1: #fc618d (Pink)
+    # color2: #7bd88f (Green)
+    # color3: #fce566 (Yellow)
+    # color4: #fd9353 (Orange)
+    # color5: #948ae3 (Purple)
+    # color6: #5ad4e6 (Cyan)
+    
+    vibrant_colors = [
+        "#fc618d", "#7bd88f", "#fce566", "#fd9353", "#948ae3", "#5ad4e6"
+    ]
+    
+    palette_cycle = itertools.cycle(vibrant_colors)
+
+    if not vibrant_colors:
+        print("Error setting up vibrant colors.")
         return
 
     terminal_items = [
@@ -1557,10 +1572,9 @@ def main():
     languages_items.sort()
     frameworks_items.sort()
     
-    # Cycle through palettes
-    palette_names = list(palettes.keys())
-    palette_names.sort() 
-    palette_cycle = itertools.cycle(palette_names)
+    
+    # Palette logic simplified to single cycle above
+
     
     # Helper for loop generation
     loop_configs = [
@@ -1598,11 +1612,10 @@ def main():
             
         for item in items:
             safe_name = item.replace(" ", "_")
-            palette_name = next(palette_cycle)
-            palette = palettes[palette_name]
+            current_color = next(palette_cycle)
             
             file_path = os.path.join(out_dir, f"{safe_name}.svg")
-            create_badge(item, palette, file_path, icon_type=icon_type)
+            create_badge(item, current_color, file_path, icon_type=icon_type)
             print(f"Generated {file_path}")
 
     subdirs_map = {

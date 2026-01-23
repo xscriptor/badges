@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="heroku">
   <title>heroku</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#cc0033"/>
-    <rect x="35" width="71.0" height="28" fill="#333333"/>
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="71.0" height="28" fill="#161b22"/>
   </g>
-  <g fill="#1a1a1a" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
     <!-- Icon area -->
     
          <g transform="translate(9.5, 8.0)">
-            <path d="M4,12 C1,12 0,10 0,8 C0,6 2,5 2,5 C2,2 5,0 8,0 C11,0 13,2 13,4 C15,4 16,6 16,8 C16,11 14,12 12,12 Z" fill="#1a1a1a"/>
+            <path d="M4,12 C1,12 0,10 0,8 C0,6 2,5 2,5 C2,2 5,0 8,0 C11,0 13,2 13,4 C15,4 16,6 16,8 C16,11 14,12 12,12 Z" fill="#ffffff"/>
          </g>
          
     
     <!-- Divider X -->
-    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#1a1a1a">X</text>
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="70.5" y="19.0" font-weight="bold" fill="#1a1a1a">heroku</text>
+    <text x="70.5" y="19.0" font-weight="bold" fill="#ffffff">heroku</text>
   </g>
 </svg>

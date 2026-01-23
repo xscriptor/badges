@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114.5" height="28" role="img" aria-label="behance">
+  <title>behance</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#999999"/>
+    <rect x="35" width="79.5" height="28" fill="#000000"/>
+  </g>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+         <g transform="translate(10.5, 7.0)">
+            <path d="M2,12 L6,12 L12,6 L8,2 L2,8 Z M3,11 L3,9" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+         </g>
+         
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
+    
+    <!-- Label -->
+    <text x="74.75" y="19.0" font-weight="bold" fill="#ffffff">behance</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123.0" height="28" role="img" aria-label="telegram">
+  <title>telegram</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#1faa9e"/>
+    <rect x="35" width="88.0" height="28" fill="#c0bbae"/>
+  </g>
+  <g fill="#191919" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+              <g transform="translate(10.5, 7.0)">
+                 <path d="M0,7 L14,0 L11,14 L8,8 Z" fill="#191919"/>
+              </g>
+              
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#191919">X</text>
+    
+    <!-- Label -->
+    <text x="79.0" y="19.0" font-weight="bold" fill="#191919">telegram</text>
+  </g>
+</svg>

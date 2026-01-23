@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="vercel">
+  <title>vercel</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#FF5555"/>
+    <rect x="35" width="71.0" height="28" fill="#1A1A1A"/>
+  </g>
+  <g fill="#FFFFFF" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(9.5, 7.0)">
+                <path d="M8,1 L15,13 L1,13 Z" fill="#FFFFFF"/> # Triangle
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#FFFFFF">X</text>
+    
+    <!-- Label -->
+    <text x="70.5" y="19.0" font-weight="bold" fill="#FFFFFF">vercel</text>
+  </g>
+</svg>

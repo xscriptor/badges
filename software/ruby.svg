@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="ruby">
+  <title>ruby</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#FFD700"/>
+    <rect x="35" width="54.0" height="28" fill="#2b2b2b"/>
+  </g>
+  <g fill="#FFFFFF" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    <text x="17.5" y="19.0" font-weight="bold" font-family="monospace" fill="#FFFFFF">{}</text>
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#FFFFFF">X</text>
+    
+    <!-- Label -->
+    <text x="62.0" y="19.0" font-weight="bold" fill="#FFFFFF">ruby</text>
+  </g>
+</svg>

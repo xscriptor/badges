@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123.0" height="28" role="img" aria-label="obsidian">
+  <title>obsidian</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#FF4C8B"/>
+    <rect x="35" width="88.0" height="28" fill="#000000"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+         <g transform="translate(10.5, 7.0)">
+             <rect x="1" y="1" width="12" height="12" rx="2" stroke="#f7f1ff" stroke-width="1.5" fill="none"/>
+             <path d="M3,6 L6,9 L11,3" stroke="#f7f1ff" stroke-width="1.5" fill="none"/>
+         </g>
+         
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="79.0" y="19.0" font-weight="bold" fill="#f7f1ff">obsidian</text>
+  </g>
+</svg>

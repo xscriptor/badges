@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="xbox">
+  <title>xbox</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#cc0033"/>
+    <rect x="35" width="54.0" height="28" fill="#333333"/>
+  </g>
+  <g fill="#1a1a1a" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+         <g transform="translate(9.5, 9.0)">
+            <path d="M1,5 C1,2 3,1 5,1 L11,1 C13,1 15,2 15,5 C15,8 14,9 12,9 L10,9 L9,7 L7,7 L6,9 L4,9 C2,9 1,8 1,5 Z" fill="#1a1a1a"/>
+            <circle cx="4" cy="5" r="1" fill="#cc0033"/>
+            <circle cx="12" cy="5" r="1" fill="#cc0033"/>
+         </g>
+         
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#1a1a1a">X</text>
+    
+    <!-- Label -->
+    <text x="62.0" y="19.0" font-weight="bold" fill="#1a1a1a">xbox</text>
+  </g>
+</svg>

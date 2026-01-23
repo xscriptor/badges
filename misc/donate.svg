@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="donate">
+  <title>donate</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="71.0" height="28" fill="#363537"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+         <g transform="translate(10.5, 8.0)">
+            <path d="M7,13 L6,12 C2,8 0,6 0,4 C0,1 2,0 4,0 C5,0 6,1 7,2 C8,1 9,0 10,0 C12,0 14,1 14,4 C14,6 12,8 8,12 Z" fill="#f7f1ff"/>
+         </g>
+         
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="70.5" y="19.0" font-weight="bold" fill="#f7f1ff">donate</text>
+  </g>
+</svg>

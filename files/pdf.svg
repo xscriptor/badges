@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.5" height="28" role="img" aria-label="pdf">
+  <title>pdf</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#999999"/>
+    <rect x="35" width="45.5" height="28" fill="#000000"/>
+  </g>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    <text x="17.5" y="18.0" font-weight="bold" font-family="sans-serif" font-size="8" fill="#ffffff">PDF</text>
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
+    
+    <!-- Label -->
+    <text x="57.75" y="19.0" font-weight="bold" fill="#ffffff">pdf</text>
+  </g>
+</svg>

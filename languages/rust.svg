@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="rust">
+  <title>rust</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#cc0033"/>
+    <rect x="35" width="54.0" height="28" fill="#333333"/>
+  </g>
+  <g fill="#1a1a1a" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(17.5, 14.0)">
+                 <circle r="4" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-dasharray="3,1.5" />
+                 <circle r="6" fill="none" stroke="#1a1a1a" stroke-width="1.5" />
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#1a1a1a">X</text>
+    
+    <!-- Label -->
+    <text x="62.0" y="19.0" font-weight="bold" fill="#1a1a1a">rust</text>
+  </g>
+</svg>

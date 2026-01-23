@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157.0" height="28" role="img" aria-label="sublime-text">
+  <title>sublime-text</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="122.0" height="28" fill="#363537"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(9.5, 6.0)">
+                <rect x="0" y="0" width="16" height="16" fill="#f7f1ff"/>
+                <path d="M8,4 L12,8 L8,12 L4,8 Z" fill="#fc618d"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="96.0" y="19.0" font-weight="bold" fill="#f7f1ff">sublime-text</text>
+  </g>
+</svg>

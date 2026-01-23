@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="xtop">
+  <title>xtop</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#cc0033"/>
+    <rect x="35" width="54.0" height="28" fill="#333333"/>
+  </g>
+  <g fill="#1a1a1a" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(11.5, 8.0)">
+                <rect x="0" y="8" width="3" height="4" fill="#1a1a1a"/>
+                <rect x="4" y="4" width="3" height="8" fill="#1a1a1a"/>
+                <rect x="8" y="0" width="3" height="12" fill="#1a1a1a"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#1a1a1a">X</text>
+    
+    <!-- Label -->
+    <text x="62.0" y="19.0" font-weight="bold" fill="#1a1a1a">xtop</text>
+  </g>
+</svg>

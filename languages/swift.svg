@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="swift">
+  <title>swift</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#FF4C8B"/>
+    <rect x="35" width="62.5" height="28" fill="#1b1b1bff"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(9.5, 8.0)">
+                <path d="M0,8 Q5,0 16,0 Q10,5 16,8 Q5,14 0,8" fill="#f7f1ff"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="66.25" y="19.0" font-weight="bold" fill="#f7f1ff">swift</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.5" height="28" role="img" aria-label="aws">
+  <title>aws</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="45.5" height="28" fill="#363537"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(10.5, 8.0)">
+                 <path d="M10,2 L12,4 L12,8 L2,8 L2,5 L5,2 Z M2,8 L2,10 L10,10" stroke="#f7f1ff" stroke-width="1.5" fill="none"/>
+                 <path d="M4,12 Q7,14 10,12" stroke="#fc618d" stroke-width="1.5" fill="none"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="57.75" y="19.0" font-weight="bold" fill="#f7f1ff">aws</text>
+  </g>
+</svg>

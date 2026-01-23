@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="linux">
+  <title>linux</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#FF4C8B"/>
+    <rect x="35" width="62.5" height="28" fill="#1b1b1bff"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+            <g transform="translate(10.5, 6.0)">
+                <path d="M7,0 C4,0 3,3 3,5 L1,8 L3,14 L6,16 L8,16 L11,14 L13,8 L11,5 C11,3 10,0 7,0 Z" fill="#f7f1ff"/>
+                <path d="M5,4 C5,4 6,5 8,5 C10,5 11,4 11,4" stroke="#FF4C8B" stroke-width="0.5" fill="none"/>
+                <circle cx="5" cy="3" r="1" fill="#FF4C8B"/>
+                <circle cx="9" cy="3" r="1" fill="#FF4C8B"/>
+                <path d="M5,7 C5,7 6,14 8,14 C10,14 11,7 11,7" fill="#FF4C8B"/>
+            </g>
+            
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="66.25" y="19.0" font-weight="bold" fill="#f7f1ff">linux</text>
+  </g>
+</svg>

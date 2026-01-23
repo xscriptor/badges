@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="neovim">
+  <title>neovim</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#FFD700"/>
+    <rect x="35" width="71.0" height="28" fill="#2b2b2b"/>
+  </g>
+  <g fill="#FFFFFF" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(10.5, 7.0)">
+                <path d="M1,3 L5,13 L13,3 L9,3 L5,10 L5,3 Z" fill="#FFFFFF"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#FFFFFF">X</text>
+    
+    <!-- Label -->
+    <text x="70.5" y="19.0" font-weight="bold" fill="#FFFFFF">neovim</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="solid">
+  <title>solid</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="62.5" height="28" fill="#222222"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+        <g transform="translate(9.5, 6.0)">
+           <path d="M8,1 L15,4 L8,7 L1,4 L8,1 Z M1,8 L8,11 L15,8 M1,12 L8,15 L15,12" stroke="#f7f1ff" stroke-width="1.5" fill="none"/>
+        </g>
+        
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="66.25" y="19.0" font-weight="bold" fill="#f7f1ff">solid</text>
+  </g>
+</svg>

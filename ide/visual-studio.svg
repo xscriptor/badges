@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165.5" height="28" role="img" aria-label="visual-studio">
+  <title>visual-studio</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="130.5" height="28" fill="#222222"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(9.5, 6.0)">
+                <path d="M2,2 L8,9 L2,16 L2,2 Z M14,2 L8,9 L14,16 L14,2 Z" fill="#f7f1ff"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="100.25" y="19.0" font-weight="bold" fill="#f7f1ff">visual-studio</text>
+  </g>
+</svg>

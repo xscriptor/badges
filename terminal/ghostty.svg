@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114.5" height="28" role="img" aria-label="ghostty">
+  <title>ghostty</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#cc0033"/>
+    <rect x="35" width="79.5" height="28" fill="#333333"/>
+  </g>
+  <g fill="#1a1a1a" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(10.5, 6.0)">
+                <path d="M7,0 C3,0 0,3 0,7 L0,16 L3,14 L7,16 L11,14 L14,16 L14,7 C14,3 11,0 7,0 Z" fill="#1a1a1a"/>
+                <circle cx="5" cy="6" r="1.5" fill="#cc0033"/>
+                <circle cx="9" cy="6" r="1.5" fill="#cc0033"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#1a1a1a">X</text>
+    
+    <!-- Label -->
+    <text x="74.75" y="19.0" font-weight="bold" fill="#1a1a1a">ghostty</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="vscode">
+  <title>vscode</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="71.0" height="28" fill="#363537"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(10.5, 7.0)">
+                <path d="M10,0 L12,2 L3,8 L12,14 L10,16 L0,8 Z" fill="#f7f1ff"/>
+                <path d="M10,12 L6,8 L10,4" fill="#fc618d"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="70.5" y="19.0" font-weight="bold" fill="#f7f1ff">vscode</text>
+  </g>
+</svg>

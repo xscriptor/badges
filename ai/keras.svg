@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="keras">
+  <title>keras</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="62.5" height="28" fill="#363537"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+         <g transform="translate(10.5, 7.0)">
+            <path d="M7,1 C4,1 2,4 2,7 C2,10 5,13 7,13 C9,13 12,10 12,7 C12,4 10,1 7,1 Z M7,3 C9,3 10,5 10,7 C10,9 9,11 7,11 C5,11 4,9 4,7 C4,5 5,3 7,3" stroke="#f7f1ff" stroke-width="1.5" fill="none"/>
+            <path d="M7,5 L7,9 M5,7 L9,7" stroke="#f7f1ff" stroke-width="1.5"/>
+         </g>
+         
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="66.25" y="19.0" font-weight="bold" fill="#f7f1ff">keras</text>
+  </g>
+</svg>

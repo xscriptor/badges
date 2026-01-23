@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140.0" height="28" role="img" aria-label="cloudflare">
+  <title>cloudflare</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="105.0" height="28" fill="#222222"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+         <g transform="translate(9.5, 8.0)">
+            <path d="M4,12 C1,12 0,10 0,8 C0,6 2,5 2,5 C2,2 5,0 8,0 C11,0 13,2 13,4 C15,4 16,6 16,8 C16,11 14,12 12,12 Z" fill="#f7f1ff"/>
+         </g>
+         
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="87.5" y="19.0" font-weight="bold" fill="#f7f1ff">cloudflare</text>
+  </g>
+</svg>

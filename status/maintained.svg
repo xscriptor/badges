@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140.0" height="28" role="img" aria-label="maintained">
+  <title>maintained</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#e05561"/>
+    <rect x="35" width="105.0" height="28" fill="#3f4451"/>
+  </g>
+  <g fill="#e6e6e6" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+         <g transform="translate(12.5, 9.0)">
+            <circle cx="5" cy="5" r="5" fill="#e6e6e6"/>
+         </g>
+         
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#e6e6e6">X</text>
+    
+    <!-- Label -->
+    <text x="87.5" y="19.0" font-weight="bold" fill="#e6e6e6">maintained</text>
+  </g>
+</svg>

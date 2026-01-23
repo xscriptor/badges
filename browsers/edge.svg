@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="edge">
+  <title>edge</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#FF4C8B"/>
+    <rect x="35" width="54.0" height="28" fill="#000000"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(9.5, 6.0)">
+                <path d="M8,8 C4,8 4,14 8,14 L14,10 M14,2 C10,2 6,4 6,8" stroke="#f7f1ff" stroke-width="2" fill="none"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="62.0" y="19.0" font-weight="bold" fill="#f7f1ff">edge</text>
+  </g>
+</svg>

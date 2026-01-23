@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114.5" height="28" role="img" aria-label="firefox">
+  <title>firefox</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#e05561"/>
+    <rect x="35" width="79.5" height="28" fill="#3f4451"/>
+  </g>
+  <g fill="#e6e6e6" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(9.5, 6.0)">
+                <path d="M8,16 C4,16 1,12 1,8 C1,5 3,2 6,1 C4,3 4,5 5,7 C7,4 11,2 13,4 C14,6 15,9 13,12 C12,15 10,16 8,16 Z" fill="#e6e6e6"/>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#e6e6e6">X</text>
+    
+    <!-- Label -->
+    <text x="74.75" y="19.0" font-weight="bold" fill="#e6e6e6">firefox</text>
+  </g>
+</svg>

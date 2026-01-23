@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.5" height="28" role="img" aria-label="csv">
+  <title>csv</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#FF4C8B"/>
+    <rect x="35" width="45.5" height="28" fill="#1b1b1bff"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+         <g transform="translate(11.5, 6.0)">
+            <path d="M1,0 L8,0 L12,4 L12,16 L1,16 Z" fill="#f7f1ff"/>
+            <path d="M8,0 L8,4 L12,4" fill="#FF4C8B"/>
+         </g>
+         
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="57.75" y="19.0" font-weight="bold" fill="#f7f1ff">csv</text>
+  </g>
+</svg>

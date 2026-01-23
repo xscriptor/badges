@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="docker">
+  <title>docker</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#fc618d"/>
+    <rect x="35" width="71.0" height="28" fill="#363537"/>
+  </g>
+  <g fill="#f7f1ff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+            <g transform="translate(8.5, 8.0)">
+                <path d="M1,7 C1,7 3,12 9,12 C15,12 17,9 18,7 L18,5 L5,5 L5,3 L3,3 L3,5 L1,5 Z" fill="#f7f1ff"/>
+                <rect x="5" y="1" width="2" height="2" fill="#f7f1ff"/>
+                <rect x="8" y="1" width="2" height="2" fill="#f7f1ff"/>
+                <rect x="5" y="3" width="2" height="2" fill="#f7f1ff"/>
+                <rect x="8" y="3" width="2" height="2" fill="#f7f1ff"/>
+                <rect x="11" y="3" width="2" height="2" fill="#f7f1ff"/>
+            </g>
+            
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#f7f1ff">X</text>
+    
+    <!-- Label -->
+    <text x="70.5" y="19.0" font-weight="bold" fill="#f7f1ff">docker</text>
+  </g>
+</svg>

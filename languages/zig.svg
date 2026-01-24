@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="80.5" height="28" role="img" aria-label="zig">
   <title>zig</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#948ae3"/>
+    <rect width="35" height="28" fill="#5ad4e6"/>
     <rect x="35" width="45.5" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">

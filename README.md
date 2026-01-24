@@ -407,6 +407,7 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 | ![cobol](./languages/cobol.svg) | `cobol` |
 | ![cpp](./languages/cpp.svg) | `cpp` |
 | ![crystal](./languages/crystal.svg) | `crystal` |
+| ![csharp](./languages/csharp.svg) | `csharp` |
 | ![css](./languages/css.svg) | `css` |
 | ![dart](./languages/dart.svg) | `dart` |
 | ![elixir](./languages/elixir.svg) | `elixir` |

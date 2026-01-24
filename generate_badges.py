@@ -1538,7 +1538,7 @@ def main():
     ]
 
     languages_items = [
-        "python", "rust", "go", "c", "cpp", "java", "javascript", "typescript", "php", "ruby", "swift",
+        "python", "rust", "go", "c", "cpp", "csharp", "java", "javascript", "typescript", "php", "ruby", "swift",
         "kotlin", "scala", "r", "matlab", "perl", "lua", "haskell", "julia", "dart",
         "html", "css", "sql", "assembly", "objective-c", "visual-basic", "groovy",
         "elixir", "clojure", "fsharp", "ocaml", "lisp", "fortran", "cobol", "pascal",

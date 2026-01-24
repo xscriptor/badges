@@ -546,6 +546,16 @@ def create_badge(text, bg_color, output_path, icon_type="terminal"):
                 <circle cx="14" cy="2" r="1.5" fill="{bg_left}"/>
              </g>
              '''
+        elif "trae" in lower_text:
+             # Trae AI - Stylized T / Geometric
+             # Abstract minimalist shape based on Trae branding
+             icon_content = f'''
+             <g transform="translate({icon_width/2 - 8}, {height/2 - 8})">
+                <path d="M2,2 L14,2 L14,5 L9.5,5 L9.5,14 L6.5,14 L6.5,5 L2,5 Z" fill="{text_color}"/>
+                <circle cx="8" cy="10" r="1.5" fill="{bg_left}"/>
+                <path d="M8,10 L14,14 M8,10 L2,14" stroke="{bg_left}" stroke-width="0.5" opacity="0.8"/>
+             </g>
+             '''
              
         icon_svg = icon_content
 
@@ -1448,7 +1458,7 @@ def main():
     ]
     
     ide_items = [
-        "intellij", "pycharm", "eclipse", "android-studio", "xcode", "visual-studio", "webstorm", "goland", "clion", "rider", "antigravity"
+        "intellij", "pycharm", "eclipse", "android-studio", "xcode", "visual-studio", "webstorm", "goland", "clion", "rider", "antigravity", "trae-ai"
     ]
     
     editors_items = [

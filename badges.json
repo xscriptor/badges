@@ -919,6 +919,11 @@
       "url": "https://xscriptordev.github.io/badges/ide/rider.svg"
     },
     {
+      "name": "trae-ai",
+      "path": "ide/trae-ai.svg",
+      "url": "https://xscriptordev.github.io/badges/ide/trae-ai.svg"
+    },
+    {
       "name": "visual-studio",
       "path": "ide/visual-studio.svg",
       "url": "https://xscriptordev.github.io/badges/ide/visual-studio.svg"

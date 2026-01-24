@@ -318,6 +318,7 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 | ![intellij](./ide/intellij.svg) | `intellij` |
 | ![pycharm](./ide/pycharm.svg) | `pycharm` |
 | ![rider](./ide/rider.svg) | `rider` |
+| ![trae-ai](./ide/trae-ai.svg) | `trae-ai` |
 | ![visual-studio](./ide/visual-studio.svg) | `visual-studio` |
 | ![webstorm](./ide/webstorm.svg) | `webstorm` |
 | ![xcode](./ide/xcode.svg) | `xcode` |

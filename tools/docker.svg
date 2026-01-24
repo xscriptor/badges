@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="docker">
   <title>docker</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#fc618d"/>
+    <rect width="35" height="28" fill="#7bd88f"/>
     <rect x="35" width="71.0" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">

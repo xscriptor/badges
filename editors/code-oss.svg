@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="123.0" height="28" role="img" aria-label="code-oss">
   <title>code-oss</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#948ae3"/>
+    <rect width="35" height="28" fill="#5ad4e6"/>
     <rect x="35" width="88.0" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
@@ -9,7 +9,7 @@
     
              <g transform="translate(10.5, 7.0)">
                 <path d="M10,0 L12,2 L3,8 L12,14 L10,16 L0,8 Z" fill="#ffffff"/>
-                <path d="M10,12 L6,8 L10,4" fill="#948ae3"/>
+                <path d="M10,12 L6,8 L10,4" fill="#5ad4e6"/>
              </g>
              
     

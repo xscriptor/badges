@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="visa">
   <title>visa</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#5ad4e6"/>
+    <rect width="35" height="28" fill="#fc618d"/>
     <rect x="35" width="54.0" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
@@ -9,8 +9,8 @@
     
              <g transform="translate(9.5, 8.0)">
                 <rect x="0" y="0" width="16" height="12" rx="2" fill="#ffffff"/>
-                <line x1="0" y1="4" x2="16" y2="4" stroke="#5ad4e6" stroke-width="2"/>
-                <circle cx="12" cy="9" r="1.5" fill="#5ad4e6"/>
+                <line x1="0" y1="4" x2="16" y2="4" stroke="#fc618d" stroke-width="2"/>
+                <circle cx="12" cy="9" r="1.5" fill="#fc618d"/>
              </g>
              
     

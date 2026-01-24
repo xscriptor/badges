@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="140.0" height="28" role="img" aria-label="typescript">
   <title>typescript</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#948ae3"/>
+    <rect width="35" height="28" fill="#5ad4e6"/>
     <rect x="35" width="105.0" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
@@ -9,7 +9,7 @@
     
              <g transform="translate(9.5, 6.0)">
                 <rect width="16" height="16" rx="2" fill="#ffffff" />
-                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="#948ae3">TS</text>
+                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="#5ad4e6">TS</text>
              </g>
              
     

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="ruby">
   <title>ruby</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#fd9353"/>
+    <rect width="35" height="28" fill="#948ae3"/>
     <rect x="35" width="54.0" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
@@ -9,7 +9,7 @@
     
              <g transform="translate(10.5, 7.0)">
                  <path d="M4,0 L10,0 L14,5 L7,14 L0,5 Z" fill="#ffffff" />
-                 <path d="M4,0 L7,5 M10,0 L7,5 M0,5 L14,5" stroke="#fd9353" stroke-width="0.5"/>
+                 <path d="M4,0 L7,5 M10,0 L7,5 M0,5 L14,5" stroke="#948ae3" stroke-width="0.5"/>
              </g>
              
     

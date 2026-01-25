@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="114.5" height="28" role="img" aria-label="patreon">
-  <title>patreon</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="114.5" height="28" role="img" aria-label="Patreon">
+  <title>Patreon</title>
   <g shape-rendering="crispEdges">
     <rect width="35" height="28" fill="#fd9353"/>
     <rect x="35" width="79.5" height="28" fill="#161b22"/>
@@ -16,6 +16,6 @@
     <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="74.75" y="19.0" font-weight="bold" fill="#ffffff">patreon</text>
+    <text x="74.75" y="19.0" font-weight="bold" fill="#ffffff">Patreon</text>
   </g>
 </svg>

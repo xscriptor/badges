@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="vscode">
-  <title>vscode</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="Vscode">
+  <title>Vscode</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#7bd88f"/>
+    <rect width="35" height="28" fill="#fc618d"/>
     <rect x="35" width="71.0" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
@@ -9,7 +9,7 @@
     
              <g transform="translate(10.5, 7.0)">
                 <path d="M10,0 L12,2 L3,8 L12,14 L10,16 L0,8 Z" fill="#ffffff"/>
-                <path d="M10,12 L6,8 L10,4" fill="#7bd88f"/>
+                <path d="M10,12 L6,8 L10,4" fill="#fc618d"/>
              </g>
              
     
@@ -17,6 +17,6 @@
     <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="70.5" y="19.0" font-weight="bold" fill="#ffffff">vscode</text>
+    <text x="70.5" y="19.0" font-weight="bold" fill="#ffffff">Vscode</text>
   </g>
 </svg>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="140.0" height="28" role="img" aria-label="roadmap.md">
-  <title>roadmap.md</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="140.0" height="28" role="img" aria-label="Roadmap.Md">
+  <title>Roadmap.Md</title>
   <g shape-rendering="crispEdges">
     <rect width="35" height="28" fill="#948ae3"/>
     <rect x="35" width="105.0" height="28" fill="#161b22"/>
@@ -12,6 +12,6 @@
     <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="87.5" y="19.0" font-weight="bold" fill="#ffffff">roadmap.md</text>
+    <text x="87.5" y="19.0" font-weight="bold" fill="#ffffff">Roadmap.Md</text>
   </g>
 </svg>

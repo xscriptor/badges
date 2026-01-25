@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="140.0" height="28" role="img" aria-label="purescript">
-  <title>purescript</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="140.0" height="28" role="img" aria-label="Purescript">
+  <title>Purescript</title>
   <g shape-rendering="crispEdges">
     <rect width="35" height="28" fill="#7bd88f"/>
     <rect x="35" width="105.0" height="28" fill="#161b22"/>
@@ -12,6 +12,6 @@
     <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="87.5" y="19.0" font-weight="bold" fill="#ffffff">purescript</text>
+    <text x="87.5" y="19.0" font-weight="bold" fill="#ffffff">Purescript</text>
   </g>
 </svg>

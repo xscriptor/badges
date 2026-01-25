@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123.0" height="28" role="img" aria-label="Rubymine">
+  <title>Rubymine</title>
+  <g shape-rendering="crispEdges">
+    <rect width="35" height="28" fill="#7bd88f"/>
+    <rect x="35" width="88.0" height="28" fill="#161b22"/>
+  </g>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
+    <!-- Icon area -->
+    
+             <g transform="translate(9.5, 6.0)">
+                <rect x="0" y="0" width="16" height="16" rx="2" fill="#ffffff"/>
+                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="#7bd88f">RM</text>
+             </g>
+             
+    
+    <!-- Divider X -->
+    <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
+    
+    <!-- Label -->
+    <text x="79.0" y="19.0" font-weight="bold" fill="#ffffff">Rubymine</text>
+  </g>
+</svg>

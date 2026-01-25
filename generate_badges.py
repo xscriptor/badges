@@ -3,6 +3,11 @@ import os
 import re
 import itertools
 
+
+def format_badge_name(name):
+    """Formats a badge name for display (e.g. 'github-actions' -> 'Github-Actions')."""
+    return name.title()
+
 def parse_palettes(file_path):
     with open(file_path, 'r') as f:
         content = f.read()
@@ -505,12 +510,51 @@ def create_badge(text, bg_color, output_path, icon_type="terminal"):
                 <rect x="0" y="0" width="16" height="16" rx="2" fill="{text_color}"/>
                 <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="{bg_left}">RD</text>
              </g>
-             '''
-        elif "clion" in lower_text:
-             icon_content = f'''
              <g transform="translate({icon_width/2 - 8}, {height/2 - 8})">
                 <rect x="0" y="0" width="16" height="16" rx="2" fill="{text_color}"/>
                 <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="{bg_left}">CL</text>
+             </g>
+             '''
+        elif "datagrip" in lower_text:
+             icon_content = f'''
+             <g transform="translate({icon_width/2 - 8}, {height/2 - 8})">
+                <rect x="0" y="0" width="16" height="16" rx="2" fill="{text_color}"/>
+                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="{bg_left}">DG</text>
+             </g>
+             '''
+        elif "rubymine" in lower_text:
+             icon_content = f'''
+             <g transform="translate({icon_width/2 - 8}, {height/2 - 8})">
+                <rect x="0" y="0" width="16" height="16" rx="2" fill="{text_color}"/>
+                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="{bg_left}">RM</text>
+             </g>
+             '''
+        elif "phpstorm" in lower_text:
+             icon_content = f'''
+             <g transform="translate({icon_width/2 - 8}, {height/2 - 8})">
+                <rect x="0" y="0" width="16" height="16" rx="2" fill="{text_color}"/>
+                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="{bg_left}">PS</text>
+             </g>
+             '''
+        elif "dataspell" in lower_text:
+             icon_content = f'''
+             <g transform="translate({icon_width/2 - 8}, {height/2 - 8})">
+                <rect x="0" y="0" width="16" height="16" rx="2" fill="{text_color}"/>
+                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="{bg_left}">DS</text>
+             </g>
+             '''
+        elif "aqua" in lower_text:
+             icon_content = f'''
+             <g transform="translate({icon_width/2 - 8}, {height/2 - 8})">
+                <rect x="0" y="0" width="16" height="16" rx="2" fill="{text_color}"/>
+                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="{bg_left}">AQ</text>
+             </g>
+             '''
+        elif "rustrover" in lower_text:
+             icon_content = f'''
+             <g transform="translate({icon_width/2 - 8}, {height/2 - 8})">
+                <rect x="0" y="0" width="16" height="16" rx="2" fill="{text_color}"/>
+                <text x="8" y="13" text-anchor="middle" font-weight="bold" font-family="sans-serif" font-size="10" fill="{bg_left}">RR</text>
              </g>
              '''
         elif "eclipse" in lower_text:
@@ -627,6 +671,21 @@ def create_badge(text, bg_color, output_path, icon_type="terminal"):
              icon_content = f'''
              <g transform="translate({icon_width/2 - 6}, {height/2 - 8})">
                 <path d="M0,0 L12,6 L6,8 L8,12 L4,13 L2,9 L0,11 Z" fill="{text_color}"/>
+             </g>
+             '''
+        elif "fresh" in lower_text:
+             # Leaf / Plant
+             icon_content = f'''
+             <g transform="translate({icon_width/2 - 6}, {height/2 - 8})">
+                <path d="M6,14 Q6,6 12,0" stroke="{text_color}" stroke-width="1.5" fill="none"/>
+                <path d="M6,14 Q6,8 0,6" stroke="{text_color}" stroke-width="1.5" fill="none"/>
+             </g>
+             '''
+        elif "helix" in lower_text:
+             # DNA Helix / Spiral
+             icon_content = f'''
+             <g transform="translate({icon_width/2 - 6}, {height/2 - 8})">
+                <path d="M2,2 Q6,6 10,2 M2,6 Q6,10 10,6 M2,10 Q6,14 10,10" stroke="{text_color}" stroke-width="1.5" fill="none"/>
              </g>
              '''
 
@@ -1435,9 +1494,9 @@ def main():
         return
 
     terminal_items = [
-        "alacritty", "assets", "foot", "ghostty", "gnome-terminal", "hyper", 
+        "alacritty", "foot", "ghostty", "gnome-terminal", "hyper", 
         "iterm", "kitty", "konsole", "LICENSE", "mobaxterm", "powershell", 
-        "ptyxis", "putty", "README.md", "references.md", "roadmap.md", 
+        "ptyxis", "putty", 
         "terminal.app", "terminator", "termux", "tilix", "warp", "wezterm", "xfce"
     ]
     
@@ -1453,16 +1512,17 @@ def main():
     
     # Software items updated (Migrated Design tools)
     software_items = [
-        "xfetch", "xtop",
+        "xfetch", "xtop", "xclock",
         "wireshark", "burpsuite", "metasploit", "nmap", "john-the-ripper", "aircrack-ng", "hashcat", "ghidra"
     ]
     
     ide_items = [
-        "intellij", "pycharm", "eclipse", "android-studio", "xcode", "visual-studio", "webstorm", "goland", "clion", "rider", "antigravity", "trae-ai"
+        "intellij", "pycharm", "eclipse", "android-studio", "xcode", "visual-studio", "webstorm", "goland", "clion", "rider", "antigravity", "trae-ai",
+        "datagrip", "rubymine", "phpstorm", "dataspell", "aqua", "rustrover"
     ]
     
     editors_items = [
-         "vscode", "vim", "neovim", "sublime-text", "atom", "notepad++", "emacs", "nano", "cursor", "vscodium", "code-oss"
+         "vscode", "vim", "neovim", "sublime-text", "atom", "notepad++", "emacs", "nano", "cursor", "vscodium", "code-oss", "fresh", "helix"
     ]
     
     browsers_items = [
@@ -1530,7 +1590,7 @@ def main():
     ]
     
     misc_items = [
-        "sponsors", "ko-fi", "patreon", "buymeacoffee", "liberapay", "donate"
+        "sponsors", "ko-fi", "patreon", "buymeacoffee", "liberapay", "donate", "assets"
     ]
 
     desktops_items = [
@@ -1624,8 +1684,11 @@ def main():
             safe_name = item.replace(" ", "_")
             current_color = next(palette_cycle)
             
+            # Capitalize for display
+            display_name = format_badge_name(item)
+            
             file_path = os.path.join(out_dir, f"{safe_name}.svg")
-            create_badge(item, current_color, file_path, icon_type=icon_type)
+            create_badge(display_name, current_color, file_path, icon_type=icon_type)
             print(f"Generated {file_path}")
 
     subdirs_map = {
@@ -1720,8 +1783,9 @@ def main():
         
         for item in items:
              safe_name = item.replace(" ", "_")
+             display_name = format_badge_name(item)
              rel_path = f"./{subdir}/{safe_name}.svg"
-             content += f"| ![{item}]({rel_path}) | `{item}` |\n"
+             content += f"| ![{display_name}]({rel_path}) | `{display_name}` |\n"
         
         content += "\n</details>\n\n"
         
@@ -1753,7 +1817,7 @@ def generate_badges_json(categories, subdirs_map, base_dir):
             url = f"https://xscriptordev.github.io/badges/{subdir}/{safe_name}.svg"
             
             badges_list.append({
-                "name": item,
+                "name": format_badge_name(item),
                 "path": rel_path,
                 "url": url
             })

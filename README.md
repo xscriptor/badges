@@ -28,20 +28,20 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![chatgpt](./ai/chatgpt.svg) | `chatgpt` |
-| ![claude](./ai/claude.svg) | `claude` |
-| ![copilot](./ai/copilot.svg) | `copilot` |
-| ![gemini](./ai/gemini.svg) | `gemini` |
-| ![huggingface](./ai/huggingface.svg) | `huggingface` |
-| ![keras](./ai/keras.svg) | `keras` |
-| ![llama](./ai/llama.svg) | `llama` |
-| ![midjourney](./ai/midjourney.svg) | `midjourney` |
-| ![mistral](./ai/mistral.svg) | `mistral` |
-| ![ollama](./ai/ollama.svg) | `ollama` |
-| ![openai](./ai/openai.svg) | `openai` |
-| ![pytorch](./ai/pytorch.svg) | `pytorch` |
-| ![stable-diffusion](./ai/stable-diffusion.svg) | `stable-diffusion` |
-| ![tensorflow](./ai/tensorflow.svg) | `tensorflow` |
+| ![Chatgpt](./ai/chatgpt.svg) | `Chatgpt` |
+| ![Claude](./ai/claude.svg) | `Claude` |
+| ![Copilot](./ai/copilot.svg) | `Copilot` |
+| ![Gemini](./ai/gemini.svg) | `Gemini` |
+| ![Huggingface](./ai/huggingface.svg) | `Huggingface` |
+| ![Keras](./ai/keras.svg) | `Keras` |
+| ![Llama](./ai/llama.svg) | `Llama` |
+| ![Midjourney](./ai/midjourney.svg) | `Midjourney` |
+| ![Mistral](./ai/mistral.svg) | `Mistral` |
+| ![Ollama](./ai/ollama.svg) | `Ollama` |
+| ![Openai](./ai/openai.svg) | `Openai` |
+| ![Pytorch](./ai/pytorch.svg) | `Pytorch` |
+| ![Stable-Diffusion](./ai/stable-diffusion.svg) | `Stable-Diffusion` |
+| ![Tensorflow](./ai/tensorflow.svg) | `Tensorflow` |
 
 </details>
 
@@ -50,14 +50,14 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![amplitude](./analytics/amplitude.svg) | `amplitude` |
-| ![google-analytics](./analytics/google-analytics.svg) | `google-analytics` |
-| ![grafana](./analytics/grafana.svg) | `grafana` |
-| ![matomo](./analytics/matomo.svg) | `matomo` |
-| ![mixpanel](./analytics/mixpanel.svg) | `mixpanel` |
-| ![plausible](./analytics/plausible.svg) | `plausible` |
-| ![powerbi](./analytics/powerbi.svg) | `powerbi` |
-| ![tableau](./analytics/tableau.svg) | `tableau` |
+| ![Amplitude](./analytics/amplitude.svg) | `Amplitude` |
+| ![Google-Analytics](./analytics/google-analytics.svg) | `Google-Analytics` |
+| ![Grafana](./analytics/grafana.svg) | `Grafana` |
+| ![Matomo](./analytics/matomo.svg) | `Matomo` |
+| ![Mixpanel](./analytics/mixpanel.svg) | `Mixpanel` |
+| ![Plausible](./analytics/plausible.svg) | `Plausible` |
+| ![Powerbi](./analytics/powerbi.svg) | `Powerbi` |
+| ![Tableau](./analytics/tableau.svg) | `Tableau` |
 
 </details>
 
@@ -66,16 +66,16 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![arc](./browsers/arc.svg) | `arc` |
-| ![brave](./browsers/brave.svg) | `brave` |
-| ![chrome](./browsers/chrome.svg) | `chrome` |
-| ![chromium](./browsers/chromium.svg) | `chromium` |
-| ![edge](./browsers/edge.svg) | `edge` |
-| ![firefox](./browsers/firefox.svg) | `firefox` |
-| ![opera](./browsers/opera.svg) | `opera` |
-| ![safari](./browsers/safari.svg) | `safari` |
-| ![tor](./browsers/tor.svg) | `tor` |
-| ![vivaldi](./browsers/vivaldi.svg) | `vivaldi` |
+| ![Arc](./browsers/arc.svg) | `Arc` |
+| ![Brave](./browsers/brave.svg) | `Brave` |
+| ![Chrome](./browsers/chrome.svg) | `Chrome` |
+| ![Chromium](./browsers/chromium.svg) | `Chromium` |
+| ![Edge](./browsers/edge.svg) | `Edge` |
+| ![Firefox](./browsers/firefox.svg) | `Firefox` |
+| ![Opera](./browsers/opera.svg) | `Opera` |
+| ![Safari](./browsers/safari.svg) | `Safari` |
+| ![Tor](./browsers/tor.svg) | `Tor` |
+| ![Vivaldi](./browsers/vivaldi.svg) | `Vivaldi` |
 
 </details>
 
@@ -84,14 +84,14 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![azure-pipelines](./ci/azure-pipelines.svg) | `azure-pipelines` |
-| ![bitbucket-pipelines](./ci/bitbucket-pipelines.svg) | `bitbucket-pipelines` |
-| ![circleci](./ci/circleci.svg) | `circleci` |
-| ![drone](./ci/drone.svg) | `drone` |
-| ![github-actions](./ci/github-actions.svg) | `github-actions` |
-| ![gitlab-ci](./ci/gitlab-ci.svg) | `gitlab-ci` |
-| ![jenkins](./ci/jenkins.svg) | `jenkins` |
-| ![travis-ci](./ci/travis-ci.svg) | `travis-ci` |
+| ![Azure-Pipelines](./ci/azure-pipelines.svg) | `Azure-Pipelines` |
+| ![Bitbucket-Pipelines](./ci/bitbucket-pipelines.svg) | `Bitbucket-Pipelines` |
+| ![Circleci](./ci/circleci.svg) | `Circleci` |
+| ![Drone](./ci/drone.svg) | `Drone` |
+| ![Github-Actions](./ci/github-actions.svg) | `Github-Actions` |
+| ![Gitlab-Ci](./ci/gitlab-ci.svg) | `Gitlab-Ci` |
+| ![Jenkins](./ci/jenkins.svg) | `Jenkins` |
+| ![Travis-Ci](./ci/travis-ci.svg) | `Travis-Ci` |
 
 </details>
 
@@ -100,17 +100,17 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![aws](./cloud/aws.svg) | `aws` |
-| ![azure](./cloud/azure.svg) | `azure` |
-| ![cloudflare](./cloud/cloudflare.svg) | `cloudflare` |
-| ![digitalocean](./cloud/digitalocean.svg) | `digitalocean` |
-| ![firebase](./cloud/firebase.svg) | `firebase` |
-| ![gcp](./cloud/gcp.svg) | `gcp` |
-| ![heroku](./cloud/heroku.svg) | `heroku` |
-| ![netlify](./cloud/netlify.svg) | `netlify` |
-| ![openstack](./cloud/openstack.svg) | `openstack` |
-| ![supabase](./cloud/supabase.svg) | `supabase` |
-| ![vercel](./cloud/vercel.svg) | `vercel` |
+| ![Aws](./cloud/aws.svg) | `Aws` |
+| ![Azure](./cloud/azure.svg) | `Azure` |
+| ![Cloudflare](./cloud/cloudflare.svg) | `Cloudflare` |
+| ![Digitalocean](./cloud/digitalocean.svg) | `Digitalocean` |
+| ![Firebase](./cloud/firebase.svg) | `Firebase` |
+| ![Gcp](./cloud/gcp.svg) | `Gcp` |
+| ![Heroku](./cloud/heroku.svg) | `Heroku` |
+| ![Netlify](./cloud/netlify.svg) | `Netlify` |
+| ![Openstack](./cloud/openstack.svg) | `Openstack` |
+| ![Supabase](./cloud/supabase.svg) | `Supabase` |
+| ![Vercel](./cloud/vercel.svg) | `Vercel` |
 
 </details>
 
@@ -119,14 +119,14 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![binance](./crypto/binance.svg) | `binance` |
-| ![bitcoin](./crypto/bitcoin.svg) | `bitcoin` |
-| ![coinbase](./crypto/coinbase.svg) | `coinbase` |
-| ![dogecoin](./crypto/dogecoin.svg) | `dogecoin` |
-| ![ethereum](./crypto/ethereum.svg) | `ethereum` |
-| ![monero](./crypto/monero.svg) | `monero` |
-| ![solana](./crypto/solana.svg) | `solana` |
-| ![tether](./crypto/tether.svg) | `tether` |
+| ![Binance](./crypto/binance.svg) | `Binance` |
+| ![Bitcoin](./crypto/bitcoin.svg) | `Bitcoin` |
+| ![Coinbase](./crypto/coinbase.svg) | `Coinbase` |
+| ![Dogecoin](./crypto/dogecoin.svg) | `Dogecoin` |
+| ![Ethereum](./crypto/ethereum.svg) | `Ethereum` |
+| ![Monero](./crypto/monero.svg) | `Monero` |
+| ![Solana](./crypto/solana.svg) | `Solana` |
+| ![Tether](./crypto/tether.svg) | `Tether` |
 
 </details>
 
@@ -135,20 +135,20 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![after-effects](./design/after-effects.svg) | `after-effects` |
-| ![behance](./design/behance.svg) | `behance` |
-| ![blender](./design/blender.svg) | `blender` |
-| ![canva](./design/canva.svg) | `canva` |
-| ![dribbble](./design/dribbble.svg) | `dribbble` |
-| ![figma](./design/figma.svg) | `figma` |
-| ![gimp](./design/gimp.svg) | `gimp` |
-| ![illustrator](./design/illustrator.svg) | `illustrator` |
-| ![inkscape](./design/inkscape.svg) | `inkscape` |
-| ![krita](./design/krita.svg) | `krita` |
-| ![photoshop](./design/photoshop.svg) | `photoshop` |
-| ![premiere](./design/premiere.svg) | `premiere` |
-| ![sketch](./design/sketch.svg) | `sketch` |
-| ![xd](./design/xd.svg) | `xd` |
+| ![After-Effects](./design/after-effects.svg) | `After-Effects` |
+| ![Behance](./design/behance.svg) | `Behance` |
+| ![Blender](./design/blender.svg) | `Blender` |
+| ![Canva](./design/canva.svg) | `Canva` |
+| ![Dribbble](./design/dribbble.svg) | `Dribbble` |
+| ![Figma](./design/figma.svg) | `Figma` |
+| ![Gimp](./design/gimp.svg) | `Gimp` |
+| ![Illustrator](./design/illustrator.svg) | `Illustrator` |
+| ![Inkscape](./design/inkscape.svg) | `Inkscape` |
+| ![Krita](./design/krita.svg) | `Krita` |
+| ![Photoshop](./design/photoshop.svg) | `Photoshop` |
+| ![Premiere](./design/premiere.svg) | `Premiere` |
+| ![Sketch](./design/sketch.svg) | `Sketch` |
+| ![Xd](./design/xd.svg) | `Xd` |
 
 </details>
 
@@ -157,23 +157,23 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![awesome](./desktops/awesome.svg) | `awesome` |
-| ![bspwm](./desktops/bspwm.svg) | `bspwm` |
-| ![budgie](./desktops/budgie.svg) | `budgie` |
-| ![cinnamon](./desktops/cinnamon.svg) | `cinnamon` |
-| ![gnome](./desktops/gnome.svg) | `gnome` |
-| ![hyprland](./desktops/hyprland.svg) | `hyprland` |
-| ![i3](./desktops/i3.svg) | `i3` |
-| ![kde](./desktops/kde.svg) | `kde` |
-| ![lxqt](./desktops/lxqt.svg) | `lxqt` |
-| ![mate](./desktops/mate.svg) | `mate` |
-| ![openbox](./desktops/openbox.svg) | `openbox` |
-| ![plasma](./desktops/plasma.svg) | `plasma` |
-| ![qtile](./desktops/qtile.svg) | `qtile` |
-| ![sway](./desktops/sway.svg) | `sway` |
-| ![wayland](./desktops/wayland.svg) | `wayland` |
-| ![x11](./desktops/x11.svg) | `x11` |
-| ![xfce](./desktops/xfce.svg) | `xfce` |
+| ![Awesome](./desktops/awesome.svg) | `Awesome` |
+| ![Bspwm](./desktops/bspwm.svg) | `Bspwm` |
+| ![Budgie](./desktops/budgie.svg) | `Budgie` |
+| ![Cinnamon](./desktops/cinnamon.svg) | `Cinnamon` |
+| ![Gnome](./desktops/gnome.svg) | `Gnome` |
+| ![Hyprland](./desktops/hyprland.svg) | `Hyprland` |
+| ![I3](./desktops/i3.svg) | `I3` |
+| ![Kde](./desktops/kde.svg) | `Kde` |
+| ![Lxqt](./desktops/lxqt.svg) | `Lxqt` |
+| ![Mate](./desktops/mate.svg) | `Mate` |
+| ![Openbox](./desktops/openbox.svg) | `Openbox` |
+| ![Plasma](./desktops/plasma.svg) | `Plasma` |
+| ![Qtile](./desktops/qtile.svg) | `Qtile` |
+| ![Sway](./desktops/sway.svg) | `Sway` |
+| ![Wayland](./desktops/wayland.svg) | `Wayland` |
+| ![X11](./desktops/x11.svg) | `X11` |
+| ![Xfce](./desktops/xfce.svg) | `Xfce` |
 
 </details>
 
@@ -182,23 +182,23 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![ansible](./tools/ansible.svg) | `ansible` |
-| ![babel](./tools/babel.svg) | `babel` |
-| ![docker](./tools/docker.svg) | `docker` |
-| ![eslint](./tools/eslint.svg) | `eslint` |
-| ![git](./tools/git.svg) | `git` |
-| ![insomnia](./tools/insomnia.svg) | `insomnia` |
-| ![kubernetes](./tools/kubernetes.svg) | `kubernetes` |
-| ![nginx](./tools/nginx.svg) | `nginx` |
-| ![npm](./tools/npm.svg) | `npm` |
-| ![pm2](./tools/pm2.svg) | `pm2` |
-| ![pnpm](./tools/pnpm.svg) | `pnpm` |
-| ![postman](./tools/postman.svg) | `postman` |
-| ![prettier](./tools/prettier.svg) | `prettier` |
-| ![terraform](./tools/terraform.svg) | `terraform` |
-| ![vite](./tools/vite.svg) | `vite` |
-| ![webpack](./tools/webpack.svg) | `webpack` |
-| ![yarn](./tools/yarn.svg) | `yarn` |
+| ![Ansible](./tools/ansible.svg) | `Ansible` |
+| ![Babel](./tools/babel.svg) | `Babel` |
+| ![Docker](./tools/docker.svg) | `Docker` |
+| ![Eslint](./tools/eslint.svg) | `Eslint` |
+| ![Git](./tools/git.svg) | `Git` |
+| ![Insomnia](./tools/insomnia.svg) | `Insomnia` |
+| ![Kubernetes](./tools/kubernetes.svg) | `Kubernetes` |
+| ![Nginx](./tools/nginx.svg) | `Nginx` |
+| ![Npm](./tools/npm.svg) | `Npm` |
+| ![Pm2](./tools/pm2.svg) | `Pm2` |
+| ![Pnpm](./tools/pnpm.svg) | `Pnpm` |
+| ![Postman](./tools/postman.svg) | `Postman` |
+| ![Prettier](./tools/prettier.svg) | `Prettier` |
+| ![Terraform](./tools/terraform.svg) | `Terraform` |
+| ![Vite](./tools/vite.svg) | `Vite` |
+| ![Webpack](./tools/webpack.svg) | `Webpack` |
+| ![Yarn](./tools/yarn.svg) | `Yarn` |
 
 </details>
 
@@ -207,14 +207,14 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![csv](./files/csv.svg) | `csv` |
-| ![json](./files/json.svg) | `json` |
-| ![markdown](./files/markdown.svg) | `markdown` |
-| ![pdf](./files/pdf.svg) | `pdf` |
-| ![txt](./files/txt.svg) | `txt` |
-| ![xml](./files/xml.svg) | `xml` |
-| ![yaml](./files/yaml.svg) | `yaml` |
-| ![zip](./files/zip.svg) | `zip` |
+| ![Csv](./files/csv.svg) | `Csv` |
+| ![Json](./files/json.svg) | `Json` |
+| ![Markdown](./files/markdown.svg) | `Markdown` |
+| ![Pdf](./files/pdf.svg) | `Pdf` |
+| ![Txt](./files/txt.svg) | `Txt` |
+| ![Xml](./files/xml.svg) | `Xml` |
+| ![Yaml](./files/yaml.svg) | `Yaml` |
+| ![Zip](./files/zip.svg) | `Zip` |
 
 </details>
 
@@ -223,15 +223,15 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![amex](./finance/amex.svg) | `amex` |
-| ![apple-pay](./finance/apple-pay.svg) | `apple-pay` |
-| ![google-pay](./finance/google-pay.svg) | `google-pay` |
-| ![klarna](./finance/klarna.svg) | `klarna` |
-| ![mastercard](./finance/mastercard.svg) | `mastercard` |
-| ![paypal](./finance/paypal.svg) | `paypal` |
-| ![square](./finance/square.svg) | `square` |
-| ![stripe](./finance/stripe.svg) | `stripe` |
-| ![visa](./finance/visa.svg) | `visa` |
+| ![Amex](./finance/amex.svg) | `Amex` |
+| ![Apple-Pay](./finance/apple-pay.svg) | `Apple-Pay` |
+| ![Google-Pay](./finance/google-pay.svg) | `Google-Pay` |
+| ![Klarna](./finance/klarna.svg) | `Klarna` |
+| ![Mastercard](./finance/mastercard.svg) | `Mastercard` |
+| ![Paypal](./finance/paypal.svg) | `Paypal` |
+| ![Square](./finance/square.svg) | `Square` |
+| ![Stripe](./finance/stripe.svg) | `Stripe` |
+| ![Visa](./finance/visa.svg) | `Visa` |
 
 </details>
 
@@ -240,35 +240,35 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![angular](./frameworks/angular.svg) | `angular` |
-| ![astro](./frameworks/astro.svg) | `astro` |
-| ![bootstrap](./frameworks/bootstrap.svg) | `bootstrap` |
-| ![bulma](./frameworks/bulma.svg) | `bulma` |
-| ![django](./frameworks/django.svg) | `django` |
-| ![dotnet](./frameworks/dotnet.svg) | `dotnet` |
-| ![electron](./frameworks/electron.svg) | `electron` |
-| ![express](./frameworks/express.svg) | `express` |
-| ![fastapi](./frameworks/fastapi.svg) | `fastapi` |
-| ![flask](./frameworks/flask.svg) | `flask` |
-| ![flutter](./frameworks/flutter.svg) | `flutter` |
-| ![gatsby](./frameworks/gatsby.svg) | `gatsby` |
-| ![laravel](./frameworks/laravel.svg) | `laravel` |
-| ![less](./frameworks/less.svg) | `less` |
-| ![nestjs](./frameworks/nestjs.svg) | `nestjs` |
-| ![nextjs](./frameworks/nextjs.svg) | `nextjs` |
-| ![nuxtjs](./frameworks/nuxtjs.svg) | `nuxtjs` |
-| ![qt](./frameworks/qt.svg) | `qt` |
-| ![rails](./frameworks/rails.svg) | `rails` |
-| ![react](./frameworks/react.svg) | `react` |
-| ![react-native](./frameworks/react-native.svg) | `react-native` |
-| ![remix](./frameworks/remix.svg) | `remix` |
-| ![sass](./frameworks/sass.svg) | `sass` |
-| ![solid](./frameworks/solid.svg) | `solid` |
-| ![spring](./frameworks/spring.svg) | `spring` |
-| ![svelte](./frameworks/svelte.svg) | `svelte` |
-| ![tailwind](./frameworks/tailwind.svg) | `tailwind` |
-| ![tauri](./frameworks/tauri.svg) | `tauri` |
-| ![vue](./frameworks/vue.svg) | `vue` |
+| ![Angular](./frameworks/angular.svg) | `Angular` |
+| ![Astro](./frameworks/astro.svg) | `Astro` |
+| ![Bootstrap](./frameworks/bootstrap.svg) | `Bootstrap` |
+| ![Bulma](./frameworks/bulma.svg) | `Bulma` |
+| ![Django](./frameworks/django.svg) | `Django` |
+| ![Dotnet](./frameworks/dotnet.svg) | `Dotnet` |
+| ![Electron](./frameworks/electron.svg) | `Electron` |
+| ![Express](./frameworks/express.svg) | `Express` |
+| ![Fastapi](./frameworks/fastapi.svg) | `Fastapi` |
+| ![Flask](./frameworks/flask.svg) | `Flask` |
+| ![Flutter](./frameworks/flutter.svg) | `Flutter` |
+| ![Gatsby](./frameworks/gatsby.svg) | `Gatsby` |
+| ![Laravel](./frameworks/laravel.svg) | `Laravel` |
+| ![Less](./frameworks/less.svg) | `Less` |
+| ![Nestjs](./frameworks/nestjs.svg) | `Nestjs` |
+| ![Nextjs](./frameworks/nextjs.svg) | `Nextjs` |
+| ![Nuxtjs](./frameworks/nuxtjs.svg) | `Nuxtjs` |
+| ![Qt](./frameworks/qt.svg) | `Qt` |
+| ![Rails](./frameworks/rails.svg) | `Rails` |
+| ![React](./frameworks/react.svg) | `React` |
+| ![React-Native](./frameworks/react-native.svg) | `React-Native` |
+| ![Remix](./frameworks/remix.svg) | `Remix` |
+| ![Sass](./frameworks/sass.svg) | `Sass` |
+| ![Solid](./frameworks/solid.svg) | `Solid` |
+| ![Spring](./frameworks/spring.svg) | `Spring` |
+| ![Svelte](./frameworks/svelte.svg) | `Svelte` |
+| ![Tailwind](./frameworks/tailwind.svg) | `Tailwind` |
+| ![Tauri](./frameworks/tauri.svg) | `Tauri` |
+| ![Vue](./frameworks/vue.svg) | `Vue` |
 
 </details>
 
@@ -277,15 +277,15 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![godot](./gaming/godot.svg) | `godot` |
-| ![minecraft](./gaming/minecraft.svg) | `minecraft` |
-| ![nintendo](./gaming/nintendo.svg) | `nintendo` |
-| ![playstation](./gaming/playstation.svg) | `playstation` |
-| ![roblox](./gaming/roblox.svg) | `roblox` |
-| ![steam](./gaming/steam.svg) | `steam` |
-| ![unity](./gaming/unity.svg) | `unity` |
-| ![unreal-engine](./gaming/unreal-engine.svg) | `unreal-engine` |
-| ![xbox](./gaming/xbox.svg) | `xbox` |
+| ![Godot](./gaming/godot.svg) | `Godot` |
+| ![Minecraft](./gaming/minecraft.svg) | `Minecraft` |
+| ![Nintendo](./gaming/nintendo.svg) | `Nintendo` |
+| ![Playstation](./gaming/playstation.svg) | `Playstation` |
+| ![Roblox](./gaming/roblox.svg) | `Roblox` |
+| ![Steam](./gaming/steam.svg) | `Steam` |
+| ![Unity](./gaming/unity.svg) | `Unity` |
+| ![Unreal-Engine](./gaming/unreal-engine.svg) | `Unreal-Engine` |
+| ![Xbox](./gaming/xbox.svg) | `Xbox` |
 
 </details>
 
@@ -294,14 +294,14 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![amd](./hardware/amd.svg) | `amd` |
-| ![apple-silicon](./hardware/apple-silicon.svg) | `apple-silicon` |
-| ![arduino](./hardware/arduino.svg) | `arduino` |
-| ![esp32](./hardware/esp32.svg) | `esp32` |
-| ![intel](./hardware/intel.svg) | `intel` |
-| ![nvidia](./hardware/nvidia.svg) | `nvidia` |
-| ![raspberry-pi](./hardware/raspberry-pi.svg) | `raspberry-pi` |
-| ![risc-v](./hardware/risc-v.svg) | `risc-v` |
+| ![Amd](./hardware/amd.svg) | `Amd` |
+| ![Apple-Silicon](./hardware/apple-silicon.svg) | `Apple-Silicon` |
+| ![Arduino](./hardware/arduino.svg) | `Arduino` |
+| ![Esp32](./hardware/esp32.svg) | `Esp32` |
+| ![Intel](./hardware/intel.svg) | `Intel` |
+| ![Nvidia](./hardware/nvidia.svg) | `Nvidia` |
+| ![Raspberry-Pi](./hardware/raspberry-pi.svg) | `Raspberry-Pi` |
+| ![Risc-V](./hardware/risc-v.svg) | `Risc-V` |
 
 </details>
 
@@ -310,18 +310,24 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![android-studio](./ide/android-studio.svg) | `android-studio` |
-| ![antigravity](./ide/antigravity.svg) | `antigravity` |
-| ![clion](./ide/clion.svg) | `clion` |
-| ![eclipse](./ide/eclipse.svg) | `eclipse` |
-| ![goland](./ide/goland.svg) | `goland` |
-| ![intellij](./ide/intellij.svg) | `intellij` |
-| ![pycharm](./ide/pycharm.svg) | `pycharm` |
-| ![rider](./ide/rider.svg) | `rider` |
-| ![trae-ai](./ide/trae-ai.svg) | `trae-ai` |
-| ![visual-studio](./ide/visual-studio.svg) | `visual-studio` |
-| ![webstorm](./ide/webstorm.svg) | `webstorm` |
-| ![xcode](./ide/xcode.svg) | `xcode` |
+| ![Android-Studio](./ide/android-studio.svg) | `Android-Studio` |
+| ![Antigravity](./ide/antigravity.svg) | `Antigravity` |
+| ![Aqua](./ide/aqua.svg) | `Aqua` |
+| ![Clion](./ide/clion.svg) | `Clion` |
+| ![Datagrip](./ide/datagrip.svg) | `Datagrip` |
+| ![Dataspell](./ide/dataspell.svg) | `Dataspell` |
+| ![Eclipse](./ide/eclipse.svg) | `Eclipse` |
+| ![Goland](./ide/goland.svg) | `Goland` |
+| ![Intellij](./ide/intellij.svg) | `Intellij` |
+| ![Phpstorm](./ide/phpstorm.svg) | `Phpstorm` |
+| ![Pycharm](./ide/pycharm.svg) | `Pycharm` |
+| ![Rider](./ide/rider.svg) | `Rider` |
+| ![Rubymine](./ide/rubymine.svg) | `Rubymine` |
+| ![Rustrover](./ide/rustrover.svg) | `Rustrover` |
+| ![Trae-Ai](./ide/trae-ai.svg) | `Trae-Ai` |
+| ![Visual-Studio](./ide/visual-studio.svg) | `Visual-Studio` |
+| ![Webstorm](./ide/webstorm.svg) | `Webstorm` |
+| ![Xcode](./ide/xcode.svg) | `Xcode` |
 
 </details>
 
@@ -330,13 +336,13 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![apache](./licenses/apache.svg) | `apache` |
-| ![bsd](./licenses/bsd.svg) | `bsd` |
-| ![cc0](./licenses/cc0.svg) | `cc0` |
-| ![gpl](./licenses/gpl.svg) | `gpl` |
-| ![mit](./licenses/mit.svg) | `mit` |
-| ![mozilla](./licenses/mozilla.svg) | `mozilla` |
-| ![unlicense](./licenses/unlicense.svg) | `unlicense` |
+| ![Apache](./licenses/apache.svg) | `Apache` |
+| ![Bsd](./licenses/bsd.svg) | `Bsd` |
+| ![Cc0](./licenses/cc0.svg) | `Cc0` |
+| ![Gpl](./licenses/gpl.svg) | `Gpl` |
+| ![Mit](./licenses/mit.svg) | `Mit` |
+| ![Mozilla](./licenses/mozilla.svg) | `Mozilla` |
+| ![Unlicense](./licenses/unlicense.svg) | `Unlicense` |
 
 </details>
 
@@ -345,12 +351,13 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![buymeacoffee](./misc/buymeacoffee.svg) | `buymeacoffee` |
-| ![donate](./misc/donate.svg) | `donate` |
-| ![ko-fi](./misc/ko-fi.svg) | `ko-fi` |
-| ![liberapay](./misc/liberapay.svg) | `liberapay` |
-| ![patreon](./misc/patreon.svg) | `patreon` |
-| ![sponsors](./misc/sponsors.svg) | `sponsors` |
+| ![Assets](./misc/assets.svg) | `Assets` |
+| ![Buymeacoffee](./misc/buymeacoffee.svg) | `Buymeacoffee` |
+| ![Donate](./misc/donate.svg) | `Donate` |
+| ![Ko-Fi](./misc/ko-fi.svg) | `Ko-Fi` |
+| ![Liberapay](./misc/liberapay.svg) | `Liberapay` |
+| ![Patreon](./misc/patreon.svg) | `Patreon` |
+| ![Sponsors](./misc/sponsors.svg) | `Sponsors` |
 
 </details>
 
@@ -359,21 +366,21 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![android](./os/android.svg) | `android` |
-| ![arch](./os/arch.svg) | `arch` |
-| ![debian](./os/debian.svg) | `debian` |
-| ![fedora](./os/fedora.svg) | `fedora` |
-| ![freebsd](./os/freebsd.svg) | `freebsd` |
-| ![gentoo](./os/gentoo.svg) | `gentoo` |
-| ![ios](./os/ios.svg) | `ios` |
-| ![kali](./os/kali.svg) | `kali` |
-| ![linux](./os/linux.svg) | `linux` |
-| ![macos](./os/macos.svg) | `macos` |
-| ![nixos](./os/nixos.svg) | `nixos` |
-| ![parrot](./os/parrot.svg) | `parrot` |
-| ![ubuntu](./os/ubuntu.svg) | `ubuntu` |
-| ![windows](./os/windows.svg) | `windows` |
-| ![x](./os/x.svg) | `x` |
+| ![Android](./os/android.svg) | `Android` |
+| ![Arch](./os/arch.svg) | `Arch` |
+| ![Debian](./os/debian.svg) | `Debian` |
+| ![Fedora](./os/fedora.svg) | `Fedora` |
+| ![Freebsd](./os/freebsd.svg) | `Freebsd` |
+| ![Gentoo](./os/gentoo.svg) | `Gentoo` |
+| ![Ios](./os/ios.svg) | `Ios` |
+| ![Kali](./os/kali.svg) | `Kali` |
+| ![Linux](./os/linux.svg) | `Linux` |
+| ![Macos](./os/macos.svg) | `Macos` |
+| ![Nixos](./os/nixos.svg) | `Nixos` |
+| ![Parrot](./os/parrot.svg) | `Parrot` |
+| ![Ubuntu](./os/ubuntu.svg) | `Ubuntu` |
+| ![Windows](./os/windows.svg) | `Windows` |
+| ![X](./os/x.svg) | `X` |
 
 </details>
 
@@ -382,16 +389,16 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![asana](./productivity/asana.svg) | `asana` |
-| ![clickup](./productivity/clickup.svg) | `clickup` |
-| ![jira](./productivity/jira.svg) | `jira` |
-| ![microsoft-teams](./productivity/microsoft-teams.svg) | `microsoft-teams` |
-| ![monday](./productivity/monday.svg) | `monday` |
-| ![notion](./productivity/notion.svg) | `notion` |
-| ![obsidian](./productivity/obsidian.svg) | `obsidian` |
-| ![slack](./productivity/slack.svg) | `slack` |
-| ![trello](./productivity/trello.svg) | `trello` |
-| ![zoom](./productivity/zoom.svg) | `zoom` |
+| ![Asana](./productivity/asana.svg) | `Asana` |
+| ![Clickup](./productivity/clickup.svg) | `Clickup` |
+| ![Jira](./productivity/jira.svg) | `Jira` |
+| ![Microsoft-Teams](./productivity/microsoft-teams.svg) | `Microsoft-Teams` |
+| ![Monday](./productivity/monday.svg) | `Monday` |
+| ![Notion](./productivity/notion.svg) | `Notion` |
+| ![Obsidian](./productivity/obsidian.svg) | `Obsidian` |
+| ![Slack](./productivity/slack.svg) | `Slack` |
+| ![Trello](./productivity/trello.svg) | `Trello` |
+| ![Zoom](./productivity/zoom.svg) | `Zoom` |
 
 </details>
 
@@ -400,56 +407,56 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![ada](./languages/ada.svg) | `ada` |
-| ![assembly](./languages/assembly.svg) | `assembly` |
-| ![c](./languages/c.svg) | `c` |
-| ![clojure](./languages/clojure.svg) | `clojure` |
-| ![cobol](./languages/cobol.svg) | `cobol` |
-| ![cpp](./languages/cpp.svg) | `cpp` |
-| ![crystal](./languages/crystal.svg) | `crystal` |
-| ![csharp](./languages/csharp.svg) | `csharp` |
-| ![css](./languages/css.svg) | `css` |
-| ![dart](./languages/dart.svg) | `dart` |
-| ![elixir](./languages/elixir.svg) | `elixir` |
-| ![elm](./languages/elm.svg) | `elm` |
-| ![fortran](./languages/fortran.svg) | `fortran` |
-| ![fsharp](./languages/fsharp.svg) | `fsharp` |
-| ![go](./languages/go.svg) | `go` |
-| ![groovy](./languages/groovy.svg) | `groovy` |
-| ![haskell](./languages/haskell.svg) | `haskell` |
-| ![html](./languages/html.svg) | `html` |
-| ![java](./languages/java.svg) | `java` |
-| ![javascript](./languages/javascript.svg) | `javascript` |
-| ![julia](./languages/julia.svg) | `julia` |
-| ![kotlin](./languages/kotlin.svg) | `kotlin` |
-| ![lisp](./languages/lisp.svg) | `lisp` |
-| ![lua](./languages/lua.svg) | `lua` |
-| ![matlab](./languages/matlab.svg) | `matlab` |
-| ![nim](./languages/nim.svg) | `nim` |
-| ![objective-c](./languages/objective-c.svg) | `objective-c` |
-| ![ocaml](./languages/ocaml.svg) | `ocaml` |
-| ![pascal](./languages/pascal.svg) | `pascal` |
-| ![perl](./languages/perl.svg) | `perl` |
-| ![php](./languages/php.svg) | `php` |
-| ![powershell](./languages/powershell.svg) | `powershell` |
-| ![prolog](./languages/prolog.svg) | `prolog` |
-| ![purescript](./languages/purescript.svg) | `purescript` |
-| ![python](./languages/python.svg) | `python` |
-| ![r](./languages/r.svg) | `r` |
-| ![reason](./languages/reason.svg) | `reason` |
-| ![ruby](./languages/ruby.svg) | `ruby` |
-| ![rust](./languages/rust.svg) | `rust` |
-| ![scala](./languages/scala.svg) | `scala` |
-| ![shell](./languages/shell.svg) | `shell` |
-| ![solidity](./languages/solidity.svg) | `solidity` |
-| ![sql](./languages/sql.svg) | `sql` |
-| ![swift](./languages/swift.svg) | `swift` |
-| ![typescript](./languages/typescript.svg) | `typescript` |
-| ![vala](./languages/vala.svg) | `vala` |
-| ![verilog](./languages/verilog.svg) | `verilog` |
-| ![vhdl](./languages/vhdl.svg) | `vhdl` |
-| ![visual-basic](./languages/visual-basic.svg) | `visual-basic` |
-| ![zig](./languages/zig.svg) | `zig` |
+| ![Ada](./languages/ada.svg) | `Ada` |
+| ![Assembly](./languages/assembly.svg) | `Assembly` |
+| ![C](./languages/c.svg) | `C` |
+| ![Clojure](./languages/clojure.svg) | `Clojure` |
+| ![Cobol](./languages/cobol.svg) | `Cobol` |
+| ![Cpp](./languages/cpp.svg) | `Cpp` |
+| ![Crystal](./languages/crystal.svg) | `Crystal` |
+| ![Csharp](./languages/csharp.svg) | `Csharp` |
+| ![Css](./languages/css.svg) | `Css` |
+| ![Dart](./languages/dart.svg) | `Dart` |
+| ![Elixir](./languages/elixir.svg) | `Elixir` |
+| ![Elm](./languages/elm.svg) | `Elm` |
+| ![Fortran](./languages/fortran.svg) | `Fortran` |
+| ![Fsharp](./languages/fsharp.svg) | `Fsharp` |
+| ![Go](./languages/go.svg) | `Go` |
+| ![Groovy](./languages/groovy.svg) | `Groovy` |
+| ![Haskell](./languages/haskell.svg) | `Haskell` |
+| ![Html](./languages/html.svg) | `Html` |
+| ![Java](./languages/java.svg) | `Java` |
+| ![Javascript](./languages/javascript.svg) | `Javascript` |
+| ![Julia](./languages/julia.svg) | `Julia` |
+| ![Kotlin](./languages/kotlin.svg) | `Kotlin` |
+| ![Lisp](./languages/lisp.svg) | `Lisp` |
+| ![Lua](./languages/lua.svg) | `Lua` |
+| ![Matlab](./languages/matlab.svg) | `Matlab` |
+| ![Nim](./languages/nim.svg) | `Nim` |
+| ![Objective-C](./languages/objective-c.svg) | `Objective-C` |
+| ![Ocaml](./languages/ocaml.svg) | `Ocaml` |
+| ![Pascal](./languages/pascal.svg) | `Pascal` |
+| ![Perl](./languages/perl.svg) | `Perl` |
+| ![Php](./languages/php.svg) | `Php` |
+| ![Powershell](./languages/powershell.svg) | `Powershell` |
+| ![Prolog](./languages/prolog.svg) | `Prolog` |
+| ![Purescript](./languages/purescript.svg) | `Purescript` |
+| ![Python](./languages/python.svg) | `Python` |
+| ![R](./languages/r.svg) | `R` |
+| ![Reason](./languages/reason.svg) | `Reason` |
+| ![Ruby](./languages/ruby.svg) | `Ruby` |
+| ![Rust](./languages/rust.svg) | `Rust` |
+| ![Scala](./languages/scala.svg) | `Scala` |
+| ![Shell](./languages/shell.svg) | `Shell` |
+| ![Solidity](./languages/solidity.svg) | `Solidity` |
+| ![Sql](./languages/sql.svg) | `Sql` |
+| ![Swift](./languages/swift.svg) | `Swift` |
+| ![Typescript](./languages/typescript.svg) | `Typescript` |
+| ![Vala](./languages/vala.svg) | `Vala` |
+| ![Verilog](./languages/verilog.svg) | `Verilog` |
+| ![Vhdl](./languages/vhdl.svg) | `Vhdl` |
+| ![Visual-Basic](./languages/visual-basic.svg) | `Visual-Basic` |
+| ![Zig](./languages/zig.svg) | `Zig` |
 
 </details>
 
@@ -458,14 +465,14 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![alpha](./status/alpha.svg) | `alpha` |
-| ![beta](./status/beta.svg) | `beta` |
-| ![build-failing](./status/build-failing.svg) | `build-failing` |
-| ![build-passing](./status/build-passing.svg) | `build-passing` |
-| ![deprecated](./status/deprecated.svg) | `deprecated` |
-| ![maintained](./status/maintained.svg) | `maintained` |
-| ![stable](./status/stable.svg) | `stable` |
-| ![wip](./status/wip.svg) | `wip` |
+| ![Alpha](./status/alpha.svg) | `Alpha` |
+| ![Beta](./status/beta.svg) | `Beta` |
+| ![Build-Failing](./status/build-failing.svg) | `Build-Failing` |
+| ![Build-Passing](./status/build-passing.svg) | `Build-Passing` |
+| ![Deprecated](./status/deprecated.svg) | `Deprecated` |
+| ![Maintained](./status/maintained.svg) | `Maintained` |
+| ![Stable](./status/stable.svg) | `Stable` |
+| ![Wip](./status/wip.svg) | `Wip` |
 
 </details>
 
@@ -474,30 +481,30 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![bitbucket](./social/bitbucket.svg) | `bitbucket` |
-| ![bluesky](./social/bluesky.svg) | `bluesky` |
-| ![dev.to](./social/dev.to.svg) | `dev.to` |
-| ![discord](./social/discord.svg) | `discord` |
-| ![github](./social/github.svg) | `github` |
-| ![gitlab](./social/gitlab.svg) | `gitlab` |
-| ![hackthebox](./social/hackthebox.svg) | `hackthebox` |
-| ![hashnode](./social/hashnode.svg) | `hashnode` |
-| ![instagram](./social/instagram.svg) | `instagram` |
-| ![kaggle](./social/kaggle.svg) | `kaggle` |
-| ![leetcode](./social/leetcode.svg) | `leetcode` |
-| ![linkedin](./social/linkedin.svg) | `linkedin` |
-| ![mastodon](./social/mastodon.svg) | `mastodon` |
-| ![medium](./social/medium.svg) | `medium` |
-| ![reddit](./social/reddit.svg) | `reddit` |
-| ![signal](./social/signal.svg) | `signal` |
-| ![stack-overflow](./social/stack-overflow.svg) | `stack-overflow` |
-| ![telegram](./social/telegram.svg) | `telegram` |
-| ![tryhackme](./social/tryhackme.svg) | `tryhackme` |
-| ![twitch](./social/twitch.svg) | `twitch` |
-| ![twitter](./social/twitter.svg) | `twitter` |
-| ![whatsapp](./social/whatsapp.svg) | `whatsapp` |
-| ![x](./social/x.svg) | `x` |
-| ![youtube](./social/youtube.svg) | `youtube` |
+| ![Bitbucket](./social/bitbucket.svg) | `Bitbucket` |
+| ![Bluesky](./social/bluesky.svg) | `Bluesky` |
+| ![Dev.To](./social/dev.to.svg) | `Dev.To` |
+| ![Discord](./social/discord.svg) | `Discord` |
+| ![Github](./social/github.svg) | `Github` |
+| ![Gitlab](./social/gitlab.svg) | `Gitlab` |
+| ![Hackthebox](./social/hackthebox.svg) | `Hackthebox` |
+| ![Hashnode](./social/hashnode.svg) | `Hashnode` |
+| ![Instagram](./social/instagram.svg) | `Instagram` |
+| ![Kaggle](./social/kaggle.svg) | `Kaggle` |
+| ![Leetcode](./social/leetcode.svg) | `Leetcode` |
+| ![Linkedin](./social/linkedin.svg) | `Linkedin` |
+| ![Mastodon](./social/mastodon.svg) | `Mastodon` |
+| ![Medium](./social/medium.svg) | `Medium` |
+| ![Reddit](./social/reddit.svg) | `Reddit` |
+| ![Signal](./social/signal.svg) | `Signal` |
+| ![Stack-Overflow](./social/stack-overflow.svg) | `Stack-Overflow` |
+| ![Telegram](./social/telegram.svg) | `Telegram` |
+| ![Tryhackme](./social/tryhackme.svg) | `Tryhackme` |
+| ![Twitch](./social/twitch.svg) | `Twitch` |
+| ![Twitter](./social/twitter.svg) | `Twitter` |
+| ![Whatsapp](./social/whatsapp.svg) | `Whatsapp` |
+| ![X](./social/x.svg) | `X` |
+| ![Youtube](./social/youtube.svg) | `Youtube` |
 
 </details>
 
@@ -506,16 +513,17 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![aircrack-ng](./software/aircrack-ng.svg) | `aircrack-ng` |
-| ![burpsuite](./software/burpsuite.svg) | `burpsuite` |
-| ![ghidra](./software/ghidra.svg) | `ghidra` |
-| ![hashcat](./software/hashcat.svg) | `hashcat` |
-| ![john-the-ripper](./software/john-the-ripper.svg) | `john-the-ripper` |
-| ![metasploit](./software/metasploit.svg) | `metasploit` |
-| ![nmap](./software/nmap.svg) | `nmap` |
-| ![wireshark](./software/wireshark.svg) | `wireshark` |
-| ![xfetch](./software/xfetch.svg) | `xfetch` |
-| ![xtop](./software/xtop.svg) | `xtop` |
+| ![Aircrack-Ng](./software/aircrack-ng.svg) | `Aircrack-Ng` |
+| ![Burpsuite](./software/burpsuite.svg) | `Burpsuite` |
+| ![Ghidra](./software/ghidra.svg) | `Ghidra` |
+| ![Hashcat](./software/hashcat.svg) | `Hashcat` |
+| ![John-The-Ripper](./software/john-the-ripper.svg) | `John-The-Ripper` |
+| ![Metasploit](./software/metasploit.svg) | `Metasploit` |
+| ![Nmap](./software/nmap.svg) | `Nmap` |
+| ![Wireshark](./software/wireshark.svg) | `Wireshark` |
+| ![Xclock](./software/xclock.svg) | `Xclock` |
+| ![Xfetch](./software/xfetch.svg) | `Xfetch` |
+| ![Xtop](./software/xtop.svg) | `Xtop` |
 
 </details>
 
@@ -524,30 +532,26 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![LICENSE](./terminal/LICENSE.svg) | `LICENSE` |
-| ![README.md](./terminal/README.md.svg) | `README.md` |
-| ![alacritty](./terminal/alacritty.svg) | `alacritty` |
-| ![assets](./terminal/assets.svg) | `assets` |
-| ![foot](./terminal/foot.svg) | `foot` |
-| ![ghostty](./terminal/ghostty.svg) | `ghostty` |
-| ![gnome-terminal](./terminal/gnome-terminal.svg) | `gnome-terminal` |
-| ![hyper](./terminal/hyper.svg) | `hyper` |
-| ![iterm](./terminal/iterm.svg) | `iterm` |
-| ![kitty](./terminal/kitty.svg) | `kitty` |
-| ![konsole](./terminal/konsole.svg) | `konsole` |
-| ![mobaxterm](./terminal/mobaxterm.svg) | `mobaxterm` |
-| ![powershell](./terminal/powershell.svg) | `powershell` |
-| ![ptyxis](./terminal/ptyxis.svg) | `ptyxis` |
-| ![putty](./terminal/putty.svg) | `putty` |
-| ![references.md](./terminal/references.md.svg) | `references.md` |
-| ![roadmap.md](./terminal/roadmap.md.svg) | `roadmap.md` |
-| ![terminal.app](./terminal/terminal.app.svg) | `terminal.app` |
-| ![terminator](./terminal/terminator.svg) | `terminator` |
-| ![termux](./terminal/termux.svg) | `termux` |
-| ![tilix](./terminal/tilix.svg) | `tilix` |
-| ![warp](./terminal/warp.svg) | `warp` |
-| ![wezterm](./terminal/wezterm.svg) | `wezterm` |
-| ![xfce](./terminal/xfce.svg) | `xfce` |
+| ![License](./terminal/LICENSE.svg) | `License` |
+| ![Alacritty](./terminal/alacritty.svg) | `Alacritty` |
+| ![Foot](./terminal/foot.svg) | `Foot` |
+| ![Ghostty](./terminal/ghostty.svg) | `Ghostty` |
+| ![Gnome-Terminal](./terminal/gnome-terminal.svg) | `Gnome-Terminal` |
+| ![Hyper](./terminal/hyper.svg) | `Hyper` |
+| ![Iterm](./terminal/iterm.svg) | `Iterm` |
+| ![Kitty](./terminal/kitty.svg) | `Kitty` |
+| ![Konsole](./terminal/konsole.svg) | `Konsole` |
+| ![Mobaxterm](./terminal/mobaxterm.svg) | `Mobaxterm` |
+| ![Powershell](./terminal/powershell.svg) | `Powershell` |
+| ![Ptyxis](./terminal/ptyxis.svg) | `Ptyxis` |
+| ![Putty](./terminal/putty.svg) | `Putty` |
+| ![Terminal.App](./terminal/terminal.app.svg) | `Terminal.App` |
+| ![Terminator](./terminal/terminator.svg) | `Terminator` |
+| ![Termux](./terminal/termux.svg) | `Termux` |
+| ![Tilix](./terminal/tilix.svg) | `Tilix` |
+| ![Warp](./terminal/warp.svg) | `Warp` |
+| ![Wezterm](./terminal/wezterm.svg) | `Wezterm` |
+| ![Xfce](./terminal/xfce.svg) | `Xfce` |
 
 </details>
 
@@ -556,17 +560,19 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 | Badge | Name |
 | --- | --- |
-| ![atom](./editors/atom.svg) | `atom` |
-| ![code-oss](./editors/code-oss.svg) | `code-oss` |
-| ![cursor](./editors/cursor.svg) | `cursor` |
-| ![emacs](./editors/emacs.svg) | `emacs` |
-| ![nano](./editors/nano.svg) | `nano` |
-| ![neovim](./editors/neovim.svg) | `neovim` |
-| ![notepad++](./editors/notepad++.svg) | `notepad++` |
-| ![sublime-text](./editors/sublime-text.svg) | `sublime-text` |
-| ![vim](./editors/vim.svg) | `vim` |
-| ![vscode](./editors/vscode.svg) | `vscode` |
-| ![vscodium](./editors/vscodium.svg) | `vscodium` |
+| ![Atom](./editors/atom.svg) | `Atom` |
+| ![Code-Oss](./editors/code-oss.svg) | `Code-Oss` |
+| ![Cursor](./editors/cursor.svg) | `Cursor` |
+| ![Emacs](./editors/emacs.svg) | `Emacs` |
+| ![Fresh](./editors/fresh.svg) | `Fresh` |
+| ![Helix](./editors/helix.svg) | `Helix` |
+| ![Nano](./editors/nano.svg) | `Nano` |
+| ![Neovim](./editors/neovim.svg) | `Neovim` |
+| ![Notepad++](./editors/notepad++.svg) | `Notepad++` |
+| ![Sublime-Text](./editors/sublime-text.svg) | `Sublime-Text` |
+| ![Vim](./editors/vim.svg) | `Vim` |
+| ![Vscode](./editors/vscode.svg) | `Vscode` |
+| ![Vscodium](./editors/vscodium.svg) | `Vscodium` |
 
 </details>
 

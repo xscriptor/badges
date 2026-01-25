@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="donate">
-  <title>donate</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="106.0" height="28" role="img" aria-label="Donate">
+  <title>Donate</title>
   <g shape-rendering="crispEdges">
     <rect width="35" height="28" fill="#fc618d"/>
     <rect x="35" width="71.0" height="28" fill="#161b22"/>
@@ -16,6 +16,6 @@
     <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="70.5" y="19.0" font-weight="bold" fill="#ffffff">donate</text>
+    <text x="70.5" y="19.0" font-weight="bold" fill="#ffffff">Donate</text>
   </g>
 </svg>

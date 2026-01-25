@@ -1,1785 +1,1815 @@
 {
   "AI & Machine Learning": [
     {
-      "name": "chatgpt",
+      "name": "Chatgpt",
       "path": "ai/chatgpt.svg",
       "url": "https://xscriptordev.github.io/badges/ai/chatgpt.svg"
     },
     {
-      "name": "claude",
+      "name": "Claude",
       "path": "ai/claude.svg",
       "url": "https://xscriptordev.github.io/badges/ai/claude.svg"
     },
     {
-      "name": "copilot",
+      "name": "Copilot",
       "path": "ai/copilot.svg",
       "url": "https://xscriptordev.github.io/badges/ai/copilot.svg"
     },
     {
-      "name": "gemini",
+      "name": "Gemini",
       "path": "ai/gemini.svg",
       "url": "https://xscriptordev.github.io/badges/ai/gemini.svg"
     },
     {
-      "name": "huggingface",
+      "name": "Huggingface",
       "path": "ai/huggingface.svg",
       "url": "https://xscriptordev.github.io/badges/ai/huggingface.svg"
     },
     {
-      "name": "keras",
+      "name": "Keras",
       "path": "ai/keras.svg",
       "url": "https://xscriptordev.github.io/badges/ai/keras.svg"
     },
     {
-      "name": "llama",
+      "name": "Llama",
       "path": "ai/llama.svg",
       "url": "https://xscriptordev.github.io/badges/ai/llama.svg"
     },
     {
-      "name": "midjourney",
+      "name": "Midjourney",
       "path": "ai/midjourney.svg",
       "url": "https://xscriptordev.github.io/badges/ai/midjourney.svg"
     },
     {
-      "name": "mistral",
+      "name": "Mistral",
       "path": "ai/mistral.svg",
       "url": "https://xscriptordev.github.io/badges/ai/mistral.svg"
     },
     {
-      "name": "ollama",
+      "name": "Ollama",
       "path": "ai/ollama.svg",
       "url": "https://xscriptordev.github.io/badges/ai/ollama.svg"
     },
     {
-      "name": "openai",
+      "name": "Openai",
       "path": "ai/openai.svg",
       "url": "https://xscriptordev.github.io/badges/ai/openai.svg"
     },
     {
-      "name": "pytorch",
+      "name": "Pytorch",
       "path": "ai/pytorch.svg",
       "url": "https://xscriptordev.github.io/badges/ai/pytorch.svg"
     },
     {
-      "name": "stable-diffusion",
+      "name": "Stable-Diffusion",
       "path": "ai/stable-diffusion.svg",
       "url": "https://xscriptordev.github.io/badges/ai/stable-diffusion.svg"
     },
     {
-      "name": "tensorflow",
+      "name": "Tensorflow",
       "path": "ai/tensorflow.svg",
       "url": "https://xscriptordev.github.io/badges/ai/tensorflow.svg"
     }
   ],
   "Analytics": [
     {
-      "name": "amplitude",
+      "name": "Amplitude",
       "path": "analytics/amplitude.svg",
       "url": "https://xscriptordev.github.io/badges/analytics/amplitude.svg"
     },
     {
-      "name": "google-analytics",
+      "name": "Google-Analytics",
       "path": "analytics/google-analytics.svg",
       "url": "https://xscriptordev.github.io/badges/analytics/google-analytics.svg"
     },
     {
-      "name": "grafana",
+      "name": "Grafana",
       "path": "analytics/grafana.svg",
       "url": "https://xscriptordev.github.io/badges/analytics/grafana.svg"
     },
     {
-      "name": "matomo",
+      "name": "Matomo",
       "path": "analytics/matomo.svg",
       "url": "https://xscriptordev.github.io/badges/analytics/matomo.svg"
     },
     {
-      "name": "mixpanel",
+      "name": "Mixpanel",
       "path": "analytics/mixpanel.svg",
       "url": "https://xscriptordev.github.io/badges/analytics/mixpanel.svg"
     },
     {
-      "name": "plausible",
+      "name": "Plausible",
       "path": "analytics/plausible.svg",
       "url": "https://xscriptordev.github.io/badges/analytics/plausible.svg"
     },
     {
-      "name": "powerbi",
+      "name": "Powerbi",
       "path": "analytics/powerbi.svg",
       "url": "https://xscriptordev.github.io/badges/analytics/powerbi.svg"
     },
     {
-      "name": "tableau",
+      "name": "Tableau",
       "path": "analytics/tableau.svg",
       "url": "https://xscriptordev.github.io/badges/analytics/tableau.svg"
     }
   ],
   "Browsers": [
     {
-      "name": "arc",
+      "name": "Arc",
       "path": "browsers/arc.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/arc.svg"
     },
     {
-      "name": "brave",
+      "name": "Brave",
       "path": "browsers/brave.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/brave.svg"
     },
     {
-      "name": "chrome",
+      "name": "Chrome",
       "path": "browsers/chrome.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/chrome.svg"
     },
     {
-      "name": "chromium",
+      "name": "Chromium",
       "path": "browsers/chromium.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/chromium.svg"
     },
     {
-      "name": "edge",
+      "name": "Edge",
       "path": "browsers/edge.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/edge.svg"
     },
     {
-      "name": "firefox",
+      "name": "Firefox",
       "path": "browsers/firefox.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/firefox.svg"
     },
     {
-      "name": "opera",
+      "name": "Opera",
       "path": "browsers/opera.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/opera.svg"
     },
     {
-      "name": "safari",
+      "name": "Safari",
       "path": "browsers/safari.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/safari.svg"
     },
     {
-      "name": "tor",
+      "name": "Tor",
       "path": "browsers/tor.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/tor.svg"
     },
     {
-      "name": "vivaldi",
+      "name": "Vivaldi",
       "path": "browsers/vivaldi.svg",
       "url": "https://xscriptordev.github.io/badges/browsers/vivaldi.svg"
     }
   ],
   "CI/CD": [
     {
-      "name": "azure-pipelines",
+      "name": "Azure-Pipelines",
       "path": "ci/azure-pipelines.svg",
       "url": "https://xscriptordev.github.io/badges/ci/azure-pipelines.svg"
     },
     {
-      "name": "bitbucket-pipelines",
+      "name": "Bitbucket-Pipelines",
       "path": "ci/bitbucket-pipelines.svg",
       "url": "https://xscriptordev.github.io/badges/ci/bitbucket-pipelines.svg"
     },
     {
-      "name": "circleci",
+      "name": "Circleci",
       "path": "ci/circleci.svg",
       "url": "https://xscriptordev.github.io/badges/ci/circleci.svg"
     },
     {
-      "name": "drone",
+      "name": "Drone",
       "path": "ci/drone.svg",
       "url": "https://xscriptordev.github.io/badges/ci/drone.svg"
     },
     {
-      "name": "github-actions",
+      "name": "Github-Actions",
       "path": "ci/github-actions.svg",
       "url": "https://xscriptordev.github.io/badges/ci/github-actions.svg"
     },
     {
-      "name": "gitlab-ci",
+      "name": "Gitlab-Ci",
       "path": "ci/gitlab-ci.svg",
       "url": "https://xscriptordev.github.io/badges/ci/gitlab-ci.svg"
     },
     {
-      "name": "jenkins",
+      "name": "Jenkins",
       "path": "ci/jenkins.svg",
       "url": "https://xscriptordev.github.io/badges/ci/jenkins.svg"
     },
     {
-      "name": "travis-ci",
+      "name": "Travis-Ci",
       "path": "ci/travis-ci.svg",
       "url": "https://xscriptordev.github.io/badges/ci/travis-ci.svg"
     }
   ],
   "Cloud Services": [
     {
-      "name": "aws",
+      "name": "Aws",
       "path": "cloud/aws.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/aws.svg"
     },
     {
-      "name": "azure",
+      "name": "Azure",
       "path": "cloud/azure.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/azure.svg"
     },
     {
-      "name": "cloudflare",
+      "name": "Cloudflare",
       "path": "cloud/cloudflare.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/cloudflare.svg"
     },
     {
-      "name": "digitalocean",
+      "name": "Digitalocean",
       "path": "cloud/digitalocean.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/digitalocean.svg"
     },
     {
-      "name": "firebase",
+      "name": "Firebase",
       "path": "cloud/firebase.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/firebase.svg"
     },
     {
-      "name": "gcp",
+      "name": "Gcp",
       "path": "cloud/gcp.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/gcp.svg"
     },
     {
-      "name": "heroku",
+      "name": "Heroku",
       "path": "cloud/heroku.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/heroku.svg"
     },
     {
-      "name": "netlify",
+      "name": "Netlify",
       "path": "cloud/netlify.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/netlify.svg"
     },
     {
-      "name": "openstack",
+      "name": "Openstack",
       "path": "cloud/openstack.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/openstack.svg"
     },
     {
-      "name": "supabase",
+      "name": "Supabase",
       "path": "cloud/supabase.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/supabase.svg"
     },
     {
-      "name": "vercel",
+      "name": "Vercel",
       "path": "cloud/vercel.svg",
       "url": "https://xscriptordev.github.io/badges/cloud/vercel.svg"
     }
   ],
   "Crypto": [
     {
-      "name": "binance",
+      "name": "Binance",
       "path": "crypto/binance.svg",
       "url": "https://xscriptordev.github.io/badges/crypto/binance.svg"
     },
     {
-      "name": "bitcoin",
+      "name": "Bitcoin",
       "path": "crypto/bitcoin.svg",
       "url": "https://xscriptordev.github.io/badges/crypto/bitcoin.svg"
     },
     {
-      "name": "coinbase",
+      "name": "Coinbase",
       "path": "crypto/coinbase.svg",
       "url": "https://xscriptordev.github.io/badges/crypto/coinbase.svg"
     },
     {
-      "name": "dogecoin",
+      "name": "Dogecoin",
       "path": "crypto/dogecoin.svg",
       "url": "https://xscriptordev.github.io/badges/crypto/dogecoin.svg"
     },
     {
-      "name": "ethereum",
+      "name": "Ethereum",
       "path": "crypto/ethereum.svg",
       "url": "https://xscriptordev.github.io/badges/crypto/ethereum.svg"
     },
     {
-      "name": "monero",
+      "name": "Monero",
       "path": "crypto/monero.svg",
       "url": "https://xscriptordev.github.io/badges/crypto/monero.svg"
     },
     {
-      "name": "solana",
+      "name": "Solana",
       "path": "crypto/solana.svg",
       "url": "https://xscriptordev.github.io/badges/crypto/solana.svg"
     },
     {
-      "name": "tether",
+      "name": "Tether",
       "path": "crypto/tether.svg",
       "url": "https://xscriptordev.github.io/badges/crypto/tether.svg"
     }
   ],
   "Design Tools": [
     {
-      "name": "after-effects",
+      "name": "After-Effects",
       "path": "design/after-effects.svg",
       "url": "https://xscriptordev.github.io/badges/design/after-effects.svg"
     },
     {
-      "name": "behance",
+      "name": "Behance",
       "path": "design/behance.svg",
       "url": "https://xscriptordev.github.io/badges/design/behance.svg"
     },
     {
-      "name": "blender",
+      "name": "Blender",
       "path": "design/blender.svg",
       "url": "https://xscriptordev.github.io/badges/design/blender.svg"
     },
     {
-      "name": "canva",
+      "name": "Canva",
       "path": "design/canva.svg",
       "url": "https://xscriptordev.github.io/badges/design/canva.svg"
     },
     {
-      "name": "dribbble",
+      "name": "Dribbble",
       "path": "design/dribbble.svg",
       "url": "https://xscriptordev.github.io/badges/design/dribbble.svg"
     },
     {
-      "name": "figma",
+      "name": "Figma",
       "path": "design/figma.svg",
       "url": "https://xscriptordev.github.io/badges/design/figma.svg"
     },
     {
-      "name": "gimp",
+      "name": "Gimp",
       "path": "design/gimp.svg",
       "url": "https://xscriptordev.github.io/badges/design/gimp.svg"
     },
     {
-      "name": "illustrator",
+      "name": "Illustrator",
       "path": "design/illustrator.svg",
       "url": "https://xscriptordev.github.io/badges/design/illustrator.svg"
     },
     {
-      "name": "inkscape",
+      "name": "Inkscape",
       "path": "design/inkscape.svg",
       "url": "https://xscriptordev.github.io/badges/design/inkscape.svg"
     },
     {
-      "name": "krita",
+      "name": "Krita",
       "path": "design/krita.svg",
       "url": "https://xscriptordev.github.io/badges/design/krita.svg"
     },
     {
-      "name": "photoshop",
+      "name": "Photoshop",
       "path": "design/photoshop.svg",
       "url": "https://xscriptordev.github.io/badges/design/photoshop.svg"
     },
     {
-      "name": "premiere",
+      "name": "Premiere",
       "path": "design/premiere.svg",
       "url": "https://xscriptordev.github.io/badges/design/premiere.svg"
     },
     {
-      "name": "sketch",
+      "name": "Sketch",
       "path": "design/sketch.svg",
       "url": "https://xscriptordev.github.io/badges/design/sketch.svg"
     },
     {
-      "name": "xd",
+      "name": "Xd",
       "path": "design/xd.svg",
       "url": "https://xscriptordev.github.io/badges/design/xd.svg"
     }
   ],
   "Desktop Environments": [
     {
-      "name": "awesome",
+      "name": "Awesome",
       "path": "desktops/awesome.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/awesome.svg"
     },
     {
-      "name": "bspwm",
+      "name": "Bspwm",
       "path": "desktops/bspwm.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/bspwm.svg"
     },
     {
-      "name": "budgie",
+      "name": "Budgie",
       "path": "desktops/budgie.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/budgie.svg"
     },
     {
-      "name": "cinnamon",
+      "name": "Cinnamon",
       "path": "desktops/cinnamon.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/cinnamon.svg"
     },
     {
-      "name": "gnome",
+      "name": "Gnome",
       "path": "desktops/gnome.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/gnome.svg"
     },
     {
-      "name": "hyprland",
+      "name": "Hyprland",
       "path": "desktops/hyprland.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/hyprland.svg"
     },
     {
-      "name": "i3",
+      "name": "I3",
       "path": "desktops/i3.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/i3.svg"
     },
     {
-      "name": "kde",
+      "name": "Kde",
       "path": "desktops/kde.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/kde.svg"
     },
     {
-      "name": "lxqt",
+      "name": "Lxqt",
       "path": "desktops/lxqt.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/lxqt.svg"
     },
     {
-      "name": "mate",
+      "name": "Mate",
       "path": "desktops/mate.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/mate.svg"
     },
     {
-      "name": "openbox",
+      "name": "Openbox",
       "path": "desktops/openbox.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/openbox.svg"
     },
     {
-      "name": "plasma",
+      "name": "Plasma",
       "path": "desktops/plasma.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/plasma.svg"
     },
     {
-      "name": "qtile",
+      "name": "Qtile",
       "path": "desktops/qtile.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/qtile.svg"
     },
     {
-      "name": "sway",
+      "name": "Sway",
       "path": "desktops/sway.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/sway.svg"
     },
     {
-      "name": "wayland",
+      "name": "Wayland",
       "path": "desktops/wayland.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/wayland.svg"
     },
     {
-      "name": "x11",
+      "name": "X11",
       "path": "desktops/x11.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/x11.svg"
     },
     {
-      "name": "xfce",
+      "name": "Xfce",
       "path": "desktops/xfce.svg",
       "url": "https://xscriptordev.github.io/badges/desktops/xfce.svg"
     }
   ],
   "Development Tools": [
     {
-      "name": "ansible",
+      "name": "Ansible",
       "path": "tools/ansible.svg",
       "url": "https://xscriptordev.github.io/badges/tools/ansible.svg"
     },
     {
-      "name": "babel",
+      "name": "Babel",
       "path": "tools/babel.svg",
       "url": "https://xscriptordev.github.io/badges/tools/babel.svg"
     },
     {
-      "name": "docker",
+      "name": "Docker",
       "path": "tools/docker.svg",
       "url": "https://xscriptordev.github.io/badges/tools/docker.svg"
     },
     {
-      "name": "eslint",
+      "name": "Eslint",
       "path": "tools/eslint.svg",
       "url": "https://xscriptordev.github.io/badges/tools/eslint.svg"
     },
     {
-      "name": "git",
+      "name": "Git",
       "path": "tools/git.svg",
       "url": "https://xscriptordev.github.io/badges/tools/git.svg"
     },
     {
-      "name": "insomnia",
+      "name": "Insomnia",
       "path": "tools/insomnia.svg",
       "url": "https://xscriptordev.github.io/badges/tools/insomnia.svg"
     },
     {
-      "name": "kubernetes",
+      "name": "Kubernetes",
       "path": "tools/kubernetes.svg",
       "url": "https://xscriptordev.github.io/badges/tools/kubernetes.svg"
     },
     {
-      "name": "nginx",
+      "name": "Nginx",
       "path": "tools/nginx.svg",
       "url": "https://xscriptordev.github.io/badges/tools/nginx.svg"
     },
     {
-      "name": "npm",
+      "name": "Npm",
       "path": "tools/npm.svg",
       "url": "https://xscriptordev.github.io/badges/tools/npm.svg"
     },
     {
-      "name": "pm2",
+      "name": "Pm2",
       "path": "tools/pm2.svg",
       "url": "https://xscriptordev.github.io/badges/tools/pm2.svg"
     },
     {
-      "name": "pnpm",
+      "name": "Pnpm",
       "path": "tools/pnpm.svg",
       "url": "https://xscriptordev.github.io/badges/tools/pnpm.svg"
     },
     {
-      "name": "postman",
+      "name": "Postman",
       "path": "tools/postman.svg",
       "url": "https://xscriptordev.github.io/badges/tools/postman.svg"
     },
     {
-      "name": "prettier",
+      "name": "Prettier",
       "path": "tools/prettier.svg",
       "url": "https://xscriptordev.github.io/badges/tools/prettier.svg"
     },
     {
-      "name": "terraform",
+      "name": "Terraform",
       "path": "tools/terraform.svg",
       "url": "https://xscriptordev.github.io/badges/tools/terraform.svg"
     },
     {
-      "name": "vite",
+      "name": "Vite",
       "path": "tools/vite.svg",
       "url": "https://xscriptordev.github.io/badges/tools/vite.svg"
     },
     {
-      "name": "webpack",
+      "name": "Webpack",
       "path": "tools/webpack.svg",
       "url": "https://xscriptordev.github.io/badges/tools/webpack.svg"
     },
     {
-      "name": "yarn",
+      "name": "Yarn",
       "path": "tools/yarn.svg",
       "url": "https://xscriptordev.github.io/badges/tools/yarn.svg"
     }
   ],
   "File Types": [
     {
-      "name": "csv",
+      "name": "Csv",
       "path": "files/csv.svg",
       "url": "https://xscriptordev.github.io/badges/files/csv.svg"
     },
     {
-      "name": "json",
+      "name": "Json",
       "path": "files/json.svg",
       "url": "https://xscriptordev.github.io/badges/files/json.svg"
     },
     {
-      "name": "markdown",
+      "name": "Markdown",
       "path": "files/markdown.svg",
       "url": "https://xscriptordev.github.io/badges/files/markdown.svg"
     },
     {
-      "name": "pdf",
+      "name": "Pdf",
       "path": "files/pdf.svg",
       "url": "https://xscriptordev.github.io/badges/files/pdf.svg"
     },
     {
-      "name": "txt",
+      "name": "Txt",
       "path": "files/txt.svg",
       "url": "https://xscriptordev.github.io/badges/files/txt.svg"
     },
     {
-      "name": "xml",
+      "name": "Xml",
       "path": "files/xml.svg",
       "url": "https://xscriptordev.github.io/badges/files/xml.svg"
     },
     {
-      "name": "yaml",
+      "name": "Yaml",
       "path": "files/yaml.svg",
       "url": "https://xscriptordev.github.io/badges/files/yaml.svg"
     },
     {
-      "name": "zip",
+      "name": "Zip",
       "path": "files/zip.svg",
       "url": "https://xscriptordev.github.io/badges/files/zip.svg"
     }
   ],
   "Finance": [
     {
-      "name": "amex",
+      "name": "Amex",
       "path": "finance/amex.svg",
       "url": "https://xscriptordev.github.io/badges/finance/amex.svg"
     },
     {
-      "name": "apple-pay",
+      "name": "Apple-Pay",
       "path": "finance/apple-pay.svg",
       "url": "https://xscriptordev.github.io/badges/finance/apple-pay.svg"
     },
     {
-      "name": "google-pay",
+      "name": "Google-Pay",
       "path": "finance/google-pay.svg",
       "url": "https://xscriptordev.github.io/badges/finance/google-pay.svg"
     },
     {
-      "name": "klarna",
+      "name": "Klarna",
       "path": "finance/klarna.svg",
       "url": "https://xscriptordev.github.io/badges/finance/klarna.svg"
     },
     {
-      "name": "mastercard",
+      "name": "Mastercard",
       "path": "finance/mastercard.svg",
       "url": "https://xscriptordev.github.io/badges/finance/mastercard.svg"
     },
     {
-      "name": "paypal",
+      "name": "Paypal",
       "path": "finance/paypal.svg",
       "url": "https://xscriptordev.github.io/badges/finance/paypal.svg"
     },
     {
-      "name": "square",
+      "name": "Square",
       "path": "finance/square.svg",
       "url": "https://xscriptordev.github.io/badges/finance/square.svg"
     },
     {
-      "name": "stripe",
+      "name": "Stripe",
       "path": "finance/stripe.svg",
       "url": "https://xscriptordev.github.io/badges/finance/stripe.svg"
     },
     {
-      "name": "visa",
+      "name": "Visa",
       "path": "finance/visa.svg",
       "url": "https://xscriptordev.github.io/badges/finance/visa.svg"
     }
   ],
   "Frameworks": [
     {
-      "name": "angular",
+      "name": "Angular",
       "path": "frameworks/angular.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/angular.svg"
     },
     {
-      "name": "astro",
+      "name": "Astro",
       "path": "frameworks/astro.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/astro.svg"
     },
     {
-      "name": "bootstrap",
+      "name": "Bootstrap",
       "path": "frameworks/bootstrap.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/bootstrap.svg"
     },
     {
-      "name": "bulma",
+      "name": "Bulma",
       "path": "frameworks/bulma.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/bulma.svg"
     },
     {
-      "name": "django",
+      "name": "Django",
       "path": "frameworks/django.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/django.svg"
     },
     {
-      "name": "dotnet",
+      "name": "Dotnet",
       "path": "frameworks/dotnet.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/dotnet.svg"
     },
     {
-      "name": "electron",
+      "name": "Electron",
       "path": "frameworks/electron.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/electron.svg"
     },
     {
-      "name": "express",
+      "name": "Express",
       "path": "frameworks/express.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/express.svg"
     },
     {
-      "name": "fastapi",
+      "name": "Fastapi",
       "path": "frameworks/fastapi.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/fastapi.svg"
     },
     {
-      "name": "flask",
+      "name": "Flask",
       "path": "frameworks/flask.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/flask.svg"
     },
     {
-      "name": "flutter",
+      "name": "Flutter",
       "path": "frameworks/flutter.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/flutter.svg"
     },
     {
-      "name": "gatsby",
+      "name": "Gatsby",
       "path": "frameworks/gatsby.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/gatsby.svg"
     },
     {
-      "name": "laravel",
+      "name": "Laravel",
       "path": "frameworks/laravel.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/laravel.svg"
     },
     {
-      "name": "less",
+      "name": "Less",
       "path": "frameworks/less.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/less.svg"
     },
     {
-      "name": "nestjs",
+      "name": "Nestjs",
       "path": "frameworks/nestjs.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/nestjs.svg"
     },
     {
-      "name": "nextjs",
+      "name": "Nextjs",
       "path": "frameworks/nextjs.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/nextjs.svg"
     },
     {
-      "name": "nuxtjs",
+      "name": "Nuxtjs",
       "path": "frameworks/nuxtjs.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/nuxtjs.svg"
     },
     {
-      "name": "qt",
+      "name": "Qt",
       "path": "frameworks/qt.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/qt.svg"
     },
     {
-      "name": "rails",
+      "name": "Rails",
       "path": "frameworks/rails.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/rails.svg"
     },
     {
-      "name": "react",
+      "name": "React",
       "path": "frameworks/react.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/react.svg"
     },
     {
-      "name": "react-native",
+      "name": "React-Native",
       "path": "frameworks/react-native.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/react-native.svg"
     },
     {
-      "name": "remix",
+      "name": "Remix",
       "path": "frameworks/remix.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/remix.svg"
     },
     {
-      "name": "sass",
+      "name": "Sass",
       "path": "frameworks/sass.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/sass.svg"
     },
     {
-      "name": "solid",
+      "name": "Solid",
       "path": "frameworks/solid.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/solid.svg"
     },
     {
-      "name": "spring",
+      "name": "Spring",
       "path": "frameworks/spring.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/spring.svg"
     },
     {
-      "name": "svelte",
+      "name": "Svelte",
       "path": "frameworks/svelte.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/svelte.svg"
     },
     {
-      "name": "tailwind",
+      "name": "Tailwind",
       "path": "frameworks/tailwind.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/tailwind.svg"
     },
     {
-      "name": "tauri",
+      "name": "Tauri",
       "path": "frameworks/tauri.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/tauri.svg"
     },
     {
-      "name": "vue",
+      "name": "Vue",
       "path": "frameworks/vue.svg",
       "url": "https://xscriptordev.github.io/badges/frameworks/vue.svg"
     }
   ],
   "Gaming": [
     {
-      "name": "godot",
+      "name": "Godot",
       "path": "gaming/godot.svg",
       "url": "https://xscriptordev.github.io/badges/gaming/godot.svg"
     },
     {
-      "name": "minecraft",
+      "name": "Minecraft",
       "path": "gaming/minecraft.svg",
       "url": "https://xscriptordev.github.io/badges/gaming/minecraft.svg"
     },
     {
-      "name": "nintendo",
+      "name": "Nintendo",
       "path": "gaming/nintendo.svg",
       "url": "https://xscriptordev.github.io/badges/gaming/nintendo.svg"
     },
     {
-      "name": "playstation",
+      "name": "Playstation",
       "path": "gaming/playstation.svg",
       "url": "https://xscriptordev.github.io/badges/gaming/playstation.svg"
     },
     {
-      "name": "roblox",
+      "name": "Roblox",
       "path": "gaming/roblox.svg",
       "url": "https://xscriptordev.github.io/badges/gaming/roblox.svg"
     },
     {
-      "name": "steam",
+      "name": "Steam",
       "path": "gaming/steam.svg",
       "url": "https://xscriptordev.github.io/badges/gaming/steam.svg"
     },
     {
-      "name": "unity",
+      "name": "Unity",
       "path": "gaming/unity.svg",
       "url": "https://xscriptordev.github.io/badges/gaming/unity.svg"
     },
     {
-      "name": "unreal-engine",
+      "name": "Unreal-Engine",
       "path": "gaming/unreal-engine.svg",
       "url": "https://xscriptordev.github.io/badges/gaming/unreal-engine.svg"
     },
     {
-      "name": "xbox",
+      "name": "Xbox",
       "path": "gaming/xbox.svg",
       "url": "https://xscriptordev.github.io/badges/gaming/xbox.svg"
     }
   ],
   "Hardware": [
     {
-      "name": "amd",
+      "name": "Amd",
       "path": "hardware/amd.svg",
       "url": "https://xscriptordev.github.io/badges/hardware/amd.svg"
     },
     {
-      "name": "apple-silicon",
+      "name": "Apple-Silicon",
       "path": "hardware/apple-silicon.svg",
       "url": "https://xscriptordev.github.io/badges/hardware/apple-silicon.svg"
     },
     {
-      "name": "arduino",
+      "name": "Arduino",
       "path": "hardware/arduino.svg",
       "url": "https://xscriptordev.github.io/badges/hardware/arduino.svg"
     },
     {
-      "name": "esp32",
+      "name": "Esp32",
       "path": "hardware/esp32.svg",
       "url": "https://xscriptordev.github.io/badges/hardware/esp32.svg"
     },
     {
-      "name": "intel",
+      "name": "Intel",
       "path": "hardware/intel.svg",
       "url": "https://xscriptordev.github.io/badges/hardware/intel.svg"
     },
     {
-      "name": "nvidia",
+      "name": "Nvidia",
       "path": "hardware/nvidia.svg",
       "url": "https://xscriptordev.github.io/badges/hardware/nvidia.svg"
     },
     {
-      "name": "raspberry-pi",
+      "name": "Raspberry-Pi",
       "path": "hardware/raspberry-pi.svg",
       "url": "https://xscriptordev.github.io/badges/hardware/raspberry-pi.svg"
     },
     {
-      "name": "risc-v",
+      "name": "Risc-V",
       "path": "hardware/risc-v.svg",
       "url": "https://xscriptordev.github.io/badges/hardware/risc-v.svg"
     }
   ],
   "IDEs": [
     {
-      "name": "android-studio",
+      "name": "Android-Studio",
       "path": "ide/android-studio.svg",
       "url": "https://xscriptordev.github.io/badges/ide/android-studio.svg"
     },
     {
-      "name": "antigravity",
+      "name": "Antigravity",
       "path": "ide/antigravity.svg",
       "url": "https://xscriptordev.github.io/badges/ide/antigravity.svg"
     },
     {
-      "name": "clion",
+      "name": "Aqua",
+      "path": "ide/aqua.svg",
+      "url": "https://xscriptordev.github.io/badges/ide/aqua.svg"
+    },
+    {
+      "name": "Clion",
       "path": "ide/clion.svg",
       "url": "https://xscriptordev.github.io/badges/ide/clion.svg"
     },
     {
-      "name": "eclipse",
+      "name": "Datagrip",
+      "path": "ide/datagrip.svg",
+      "url": "https://xscriptordev.github.io/badges/ide/datagrip.svg"
+    },
+    {
+      "name": "Dataspell",
+      "path": "ide/dataspell.svg",
+      "url": "https://xscriptordev.github.io/badges/ide/dataspell.svg"
+    },
+    {
+      "name": "Eclipse",
       "path": "ide/eclipse.svg",
       "url": "https://xscriptordev.github.io/badges/ide/eclipse.svg"
     },
     {
-      "name": "goland",
+      "name": "Goland",
       "path": "ide/goland.svg",
       "url": "https://xscriptordev.github.io/badges/ide/goland.svg"
     },
     {
-      "name": "intellij",
+      "name": "Intellij",
       "path": "ide/intellij.svg",
       "url": "https://xscriptordev.github.io/badges/ide/intellij.svg"
     },
     {
-      "name": "pycharm",
+      "name": "Phpstorm",
+      "path": "ide/phpstorm.svg",
+      "url": "https://xscriptordev.github.io/badges/ide/phpstorm.svg"
+    },
+    {
+      "name": "Pycharm",
       "path": "ide/pycharm.svg",
       "url": "https://xscriptordev.github.io/badges/ide/pycharm.svg"
     },
     {
-      "name": "rider",
+      "name": "Rider",
       "path": "ide/rider.svg",
       "url": "https://xscriptordev.github.io/badges/ide/rider.svg"
     },
     {
-      "name": "trae-ai",
+      "name": "Rubymine",
+      "path": "ide/rubymine.svg",
+      "url": "https://xscriptordev.github.io/badges/ide/rubymine.svg"
+    },
+    {
+      "name": "Rustrover",
+      "path": "ide/rustrover.svg",
+      "url": "https://xscriptordev.github.io/badges/ide/rustrover.svg"
+    },
+    {
+      "name": "Trae-Ai",
       "path": "ide/trae-ai.svg",
       "url": "https://xscriptordev.github.io/badges/ide/trae-ai.svg"
     },
     {
-      "name": "visual-studio",
+      "name": "Visual-Studio",
       "path": "ide/visual-studio.svg",
       "url": "https://xscriptordev.github.io/badges/ide/visual-studio.svg"
     },
     {
-      "name": "webstorm",
+      "name": "Webstorm",
       "path": "ide/webstorm.svg",
       "url": "https://xscriptordev.github.io/badges/ide/webstorm.svg"
     },
     {
-      "name": "xcode",
+      "name": "Xcode",
       "path": "ide/xcode.svg",
       "url": "https://xscriptordev.github.io/badges/ide/xcode.svg"
     }
   ],
   "Licenses": [
     {
-      "name": "apache",
+      "name": "Apache",
       "path": "licenses/apache.svg",
       "url": "https://xscriptordev.github.io/badges/licenses/apache.svg"
     },
     {
-      "name": "bsd",
+      "name": "Bsd",
       "path": "licenses/bsd.svg",
       "url": "https://xscriptordev.github.io/badges/licenses/bsd.svg"
     },
     {
-      "name": "cc0",
+      "name": "Cc0",
       "path": "licenses/cc0.svg",
       "url": "https://xscriptordev.github.io/badges/licenses/cc0.svg"
     },
     {
-      "name": "gpl",
+      "name": "Gpl",
       "path": "licenses/gpl.svg",
       "url": "https://xscriptordev.github.io/badges/licenses/gpl.svg"
     },
     {
-      "name": "mit",
+      "name": "Mit",
       "path": "licenses/mit.svg",
       "url": "https://xscriptordev.github.io/badges/licenses/mit.svg"
     },
     {
-      "name": "mozilla",
+      "name": "Mozilla",
       "path": "licenses/mozilla.svg",
       "url": "https://xscriptordev.github.io/badges/licenses/mozilla.svg"
     },
     {
-      "name": "unlicense",
+      "name": "Unlicense",
       "path": "licenses/unlicense.svg",
       "url": "https://xscriptordev.github.io/badges/licenses/unlicense.svg"
     }
   ],
   "Miscellaneous": [
     {
-      "name": "buymeacoffee",
+      "name": "Assets",
+      "path": "misc/assets.svg",
+      "url": "https://xscriptordev.github.io/badges/misc/assets.svg"
+    },
+    {
+      "name": "Buymeacoffee",
       "path": "misc/buymeacoffee.svg",
       "url": "https://xscriptordev.github.io/badges/misc/buymeacoffee.svg"
     },
     {
-      "name": "donate",
+      "name": "Donate",
       "path": "misc/donate.svg",
       "url": "https://xscriptordev.github.io/badges/misc/donate.svg"
     },
     {
-      "name": "ko-fi",
+      "name": "Ko-Fi",
       "path": "misc/ko-fi.svg",
       "url": "https://xscriptordev.github.io/badges/misc/ko-fi.svg"
     },
     {
-      "name": "liberapay",
+      "name": "Liberapay",
       "path": "misc/liberapay.svg",
       "url": "https://xscriptordev.github.io/badges/misc/liberapay.svg"
     },
     {
-      "name": "patreon",
+      "name": "Patreon",
       "path": "misc/patreon.svg",
       "url": "https://xscriptordev.github.io/badges/misc/patreon.svg"
     },
     {
-      "name": "sponsors",
+      "name": "Sponsors",
       "path": "misc/sponsors.svg",
       "url": "https://xscriptordev.github.io/badges/misc/sponsors.svg"
     }
   ],
   "Operating Systems": [
     {
-      "name": "android",
+      "name": "Android",
       "path": "os/android.svg",
       "url": "https://xscriptordev.github.io/badges/os/android.svg"
     },
     {
-      "name": "arch",
+      "name": "Arch",
       "path": "os/arch.svg",
       "url": "https://xscriptordev.github.io/badges/os/arch.svg"
     },
     {
-      "name": "debian",
+      "name": "Debian",
       "path": "os/debian.svg",
       "url": "https://xscriptordev.github.io/badges/os/debian.svg"
     },
     {
-      "name": "fedora",
+      "name": "Fedora",
       "path": "os/fedora.svg",
       "url": "https://xscriptordev.github.io/badges/os/fedora.svg"
     },
     {
-      "name": "freebsd",
+      "name": "Freebsd",
       "path": "os/freebsd.svg",
       "url": "https://xscriptordev.github.io/badges/os/freebsd.svg"
     },
     {
-      "name": "gentoo",
+      "name": "Gentoo",
       "path": "os/gentoo.svg",
       "url": "https://xscriptordev.github.io/badges/os/gentoo.svg"
     },
     {
-      "name": "ios",
+      "name": "Ios",
       "path": "os/ios.svg",
       "url": "https://xscriptordev.github.io/badges/os/ios.svg"
     },
     {
-      "name": "kali",
+      "name": "Kali",
       "path": "os/kali.svg",
       "url": "https://xscriptordev.github.io/badges/os/kali.svg"
     },
     {
-      "name": "linux",
+      "name": "Linux",
       "path": "os/linux.svg",
       "url": "https://xscriptordev.github.io/badges/os/linux.svg"
     },
     {
-      "name": "macos",
+      "name": "Macos",
       "path": "os/macos.svg",
       "url": "https://xscriptordev.github.io/badges/os/macos.svg"
     },
     {
-      "name": "nixos",
+      "name": "Nixos",
       "path": "os/nixos.svg",
       "url": "https://xscriptordev.github.io/badges/os/nixos.svg"
     },
     {
-      "name": "parrot",
+      "name": "Parrot",
       "path": "os/parrot.svg",
       "url": "https://xscriptordev.github.io/badges/os/parrot.svg"
     },
     {
-      "name": "ubuntu",
+      "name": "Ubuntu",
       "path": "os/ubuntu.svg",
       "url": "https://xscriptordev.github.io/badges/os/ubuntu.svg"
     },
     {
-      "name": "windows",
+      "name": "Windows",
       "path": "os/windows.svg",
       "url": "https://xscriptordev.github.io/badges/os/windows.svg"
     },
     {
-      "name": "x",
+      "name": "X",
       "path": "os/x.svg",
       "url": "https://xscriptordev.github.io/badges/os/x.svg"
     }
   ],
   "Productivity": [
     {
-      "name": "asana",
+      "name": "Asana",
       "path": "productivity/asana.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/asana.svg"
     },
     {
-      "name": "clickup",
+      "name": "Clickup",
       "path": "productivity/clickup.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/clickup.svg"
     },
     {
-      "name": "jira",
+      "name": "Jira",
       "path": "productivity/jira.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/jira.svg"
     },
     {
-      "name": "microsoft-teams",
+      "name": "Microsoft-Teams",
       "path": "productivity/microsoft-teams.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/microsoft-teams.svg"
     },
     {
-      "name": "monday",
+      "name": "Monday",
       "path": "productivity/monday.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/monday.svg"
     },
     {
-      "name": "notion",
+      "name": "Notion",
       "path": "productivity/notion.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/notion.svg"
     },
     {
-      "name": "obsidian",
+      "name": "Obsidian",
       "path": "productivity/obsidian.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/obsidian.svg"
     },
     {
-      "name": "slack",
+      "name": "Slack",
       "path": "productivity/slack.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/slack.svg"
     },
     {
-      "name": "trello",
+      "name": "Trello",
       "path": "productivity/trello.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/trello.svg"
     },
     {
-      "name": "zoom",
+      "name": "Zoom",
       "path": "productivity/zoom.svg",
       "url": "https://xscriptordev.github.io/badges/productivity/zoom.svg"
     }
   ],
   "Programming Languages": [
     {
-      "name": "ada",
+      "name": "Ada",
       "path": "languages/ada.svg",
       "url": "https://xscriptordev.github.io/badges/languages/ada.svg"
     },
     {
-      "name": "assembly",
+      "name": "Assembly",
       "path": "languages/assembly.svg",
       "url": "https://xscriptordev.github.io/badges/languages/assembly.svg"
     },
     {
-      "name": "c",
+      "name": "C",
       "path": "languages/c.svg",
       "url": "https://xscriptordev.github.io/badges/languages/c.svg"
     },
     {
-      "name": "clojure",
+      "name": "Clojure",
       "path": "languages/clojure.svg",
       "url": "https://xscriptordev.github.io/badges/languages/clojure.svg"
     },
     {
-      "name": "cobol",
+      "name": "Cobol",
       "path": "languages/cobol.svg",
       "url": "https://xscriptordev.github.io/badges/languages/cobol.svg"
     },
     {
-      "name": "cpp",
+      "name": "Cpp",
       "path": "languages/cpp.svg",
       "url": "https://xscriptordev.github.io/badges/languages/cpp.svg"
     },
     {
-      "name": "crystal",
+      "name": "Crystal",
       "path": "languages/crystal.svg",
       "url": "https://xscriptordev.github.io/badges/languages/crystal.svg"
     },
     {
-      "name": "csharp",
+      "name": "Csharp",
       "path": "languages/csharp.svg",
       "url": "https://xscriptordev.github.io/badges/languages/csharp.svg"
     },
     {
-      "name": "css",
+      "name": "Css",
       "path": "languages/css.svg",
       "url": "https://xscriptordev.github.io/badges/languages/css.svg"
     },
     {
-      "name": "dart",
+      "name": "Dart",
       "path": "languages/dart.svg",
       "url": "https://xscriptordev.github.io/badges/languages/dart.svg"
     },
     {
-      "name": "elixir",
+      "name": "Elixir",
       "path": "languages/elixir.svg",
       "url": "https://xscriptordev.github.io/badges/languages/elixir.svg"
     },
     {
-      "name": "elm",
+      "name": "Elm",
       "path": "languages/elm.svg",
       "url": "https://xscriptordev.github.io/badges/languages/elm.svg"
     },
     {
-      "name": "fortran",
+      "name": "Fortran",
       "path": "languages/fortran.svg",
       "url": "https://xscriptordev.github.io/badges/languages/fortran.svg"
     },
     {
-      "name": "fsharp",
+      "name": "Fsharp",
       "path": "languages/fsharp.svg",
       "url": "https://xscriptordev.github.io/badges/languages/fsharp.svg"
     },
     {
-      "name": "go",
+      "name": "Go",
       "path": "languages/go.svg",
       "url": "https://xscriptordev.github.io/badges/languages/go.svg"
     },
     {
-      "name": "groovy",
+      "name": "Groovy",
       "path": "languages/groovy.svg",
       "url": "https://xscriptordev.github.io/badges/languages/groovy.svg"
     },
     {
-      "name": "haskell",
+      "name": "Haskell",
       "path": "languages/haskell.svg",
       "url": "https://xscriptordev.github.io/badges/languages/haskell.svg"
     },
     {
-      "name": "html",
+      "name": "Html",
       "path": "languages/html.svg",
       "url": "https://xscriptordev.github.io/badges/languages/html.svg"
     },
     {
-      "name": "java",
+      "name": "Java",
       "path": "languages/java.svg",
       "url": "https://xscriptordev.github.io/badges/languages/java.svg"
     },
     {
-      "name": "javascript",
+      "name": "Javascript",
       "path": "languages/javascript.svg",
       "url": "https://xscriptordev.github.io/badges/languages/javascript.svg"
     },
     {
-      "name": "julia",
+      "name": "Julia",
       "path": "languages/julia.svg",
       "url": "https://xscriptordev.github.io/badges/languages/julia.svg"
     },
     {
-      "name": "kotlin",
+      "name": "Kotlin",
       "path": "languages/kotlin.svg",
       "url": "https://xscriptordev.github.io/badges/languages/kotlin.svg"
     },
     {
-      "name": "lisp",
+      "name": "Lisp",
       "path": "languages/lisp.svg",
       "url": "https://xscriptordev.github.io/badges/languages/lisp.svg"
     },
     {
-      "name": "lua",
+      "name": "Lua",
       "path": "languages/lua.svg",
       "url": "https://xscriptordev.github.io/badges/languages/lua.svg"
     },
     {
-      "name": "matlab",
+      "name": "Matlab",
       "path": "languages/matlab.svg",
       "url": "https://xscriptordev.github.io/badges/languages/matlab.svg"
     },
     {
-      "name": "nim",
+      "name": "Nim",
       "path": "languages/nim.svg",
       "url": "https://xscriptordev.github.io/badges/languages/nim.svg"
     },
     {
-      "name": "objective-c",
+      "name": "Objective-C",
       "path": "languages/objective-c.svg",
       "url": "https://xscriptordev.github.io/badges/languages/objective-c.svg"
     },
     {
-      "name": "ocaml",
+      "name": "Ocaml",
       "path": "languages/ocaml.svg",
       "url": "https://xscriptordev.github.io/badges/languages/ocaml.svg"
     },
     {
-      "name": "pascal",
+      "name": "Pascal",
       "path": "languages/pascal.svg",
       "url": "https://xscriptordev.github.io/badges/languages/pascal.svg"
     },
     {
-      "name": "perl",
+      "name": "Perl",
       "path": "languages/perl.svg",
       "url": "https://xscriptordev.github.io/badges/languages/perl.svg"
     },
     {
-      "name": "php",
+      "name": "Php",
       "path": "languages/php.svg",
       "url": "https://xscriptordev.github.io/badges/languages/php.svg"
     },
     {
-      "name": "powershell",
+      "name": "Powershell",
       "path": "languages/powershell.svg",
       "url": "https://xscriptordev.github.io/badges/languages/powershell.svg"
     },
     {
-      "name": "prolog",
+      "name": "Prolog",
       "path": "languages/prolog.svg",
       "url": "https://xscriptordev.github.io/badges/languages/prolog.svg"
     },
     {
-      "name": "purescript",
+      "name": "Purescript",
       "path": "languages/purescript.svg",
       "url": "https://xscriptordev.github.io/badges/languages/purescript.svg"
     },
     {
-      "name": "python",
+      "name": "Python",
       "path": "languages/python.svg",
       "url": "https://xscriptordev.github.io/badges/languages/python.svg"
     },
     {
-      "name": "r",
+      "name": "R",
       "path": "languages/r.svg",
       "url": "https://xscriptordev.github.io/badges/languages/r.svg"
     },
     {
-      "name": "reason",
+      "name": "Reason",
       "path": "languages/reason.svg",
       "url": "https://xscriptordev.github.io/badges/languages/reason.svg"
     },
     {
-      "name": "ruby",
+      "name": "Ruby",
       "path": "languages/ruby.svg",
       "url": "https://xscriptordev.github.io/badges/languages/ruby.svg"
     },
     {
-      "name": "rust",
+      "name": "Rust",
       "path": "languages/rust.svg",
       "url": "https://xscriptordev.github.io/badges/languages/rust.svg"
     },
     {
-      "name": "scala",
+      "name": "Scala",
       "path": "languages/scala.svg",
       "url": "https://xscriptordev.github.io/badges/languages/scala.svg"
     },
     {
-      "name": "shell",
+      "name": "Shell",
       "path": "languages/shell.svg",
       "url": "https://xscriptordev.github.io/badges/languages/shell.svg"
     },
     {
-      "name": "solidity",
+      "name": "Solidity",
       "path": "languages/solidity.svg",
       "url": "https://xscriptordev.github.io/badges/languages/solidity.svg"
     },
     {
-      "name": "sql",
+      "name": "Sql",
       "path": "languages/sql.svg",
       "url": "https://xscriptordev.github.io/badges/languages/sql.svg"
     },
     {
-      "name": "swift",
+      "name": "Swift",
       "path": "languages/swift.svg",
       "url": "https://xscriptordev.github.io/badges/languages/swift.svg"
     },
     {
-      "name": "typescript",
+      "name": "Typescript",
       "path": "languages/typescript.svg",
       "url": "https://xscriptordev.github.io/badges/languages/typescript.svg"
     },
     {
-      "name": "vala",
+      "name": "Vala",
       "path": "languages/vala.svg",
       "url": "https://xscriptordev.github.io/badges/languages/vala.svg"
     },
     {
-      "name": "verilog",
+      "name": "Verilog",
       "path": "languages/verilog.svg",
       "url": "https://xscriptordev.github.io/badges/languages/verilog.svg"
     },
     {
-      "name": "vhdl",
+      "name": "Vhdl",
       "path": "languages/vhdl.svg",
       "url": "https://xscriptordev.github.io/badges/languages/vhdl.svg"
     },
     {
-      "name": "visual-basic",
+      "name": "Visual-Basic",
       "path": "languages/visual-basic.svg",
       "url": "https://xscriptordev.github.io/badges/languages/visual-basic.svg"
     },
     {
-      "name": "zig",
+      "name": "Zig",
       "path": "languages/zig.svg",
       "url": "https://xscriptordev.github.io/badges/languages/zig.svg"
     }
   ],
   "Project Status": [
     {
-      "name": "alpha",
+      "name": "Alpha",
       "path": "status/alpha.svg",
       "url": "https://xscriptordev.github.io/badges/status/alpha.svg"
     },
     {
-      "name": "beta",
+      "name": "Beta",
       "path": "status/beta.svg",
       "url": "https://xscriptordev.github.io/badges/status/beta.svg"
     },
     {
-      "name": "build-failing",
+      "name": "Build-Failing",
       "path": "status/build-failing.svg",
       "url": "https://xscriptordev.github.io/badges/status/build-failing.svg"
     },
     {
-      "name": "build-passing",
+      "name": "Build-Passing",
       "path": "status/build-passing.svg",
       "url": "https://xscriptordev.github.io/badges/status/build-passing.svg"
     },
     {
-      "name": "deprecated",
+      "name": "Deprecated",
       "path": "status/deprecated.svg",
       "url": "https://xscriptordev.github.io/badges/status/deprecated.svg"
     },
     {
-      "name": "maintained",
+      "name": "Maintained",
       "path": "status/maintained.svg",
       "url": "https://xscriptordev.github.io/badges/status/maintained.svg"
     },
     {
-      "name": "stable",
+      "name": "Stable",
       "path": "status/stable.svg",
       "url": "https://xscriptordev.github.io/badges/status/stable.svg"
     },
     {
-      "name": "wip",
+      "name": "Wip",
       "path": "status/wip.svg",
       "url": "https://xscriptordev.github.io/badges/status/wip.svg"
     }
   ],
   "Social Badges": [
     {
-      "name": "bitbucket",
+      "name": "Bitbucket",
       "path": "social/bitbucket.svg",
       "url": "https://xscriptordev.github.io/badges/social/bitbucket.svg"
     },
     {
-      "name": "bluesky",
+      "name": "Bluesky",
       "path": "social/bluesky.svg",
       "url": "https://xscriptordev.github.io/badges/social/bluesky.svg"
     },
     {
-      "name": "dev.to",
+      "name": "Dev.To",
       "path": "social/dev.to.svg",
       "url": "https://xscriptordev.github.io/badges/social/dev.to.svg"
     },
     {
-      "name": "discord",
+      "name": "Discord",
       "path": "social/discord.svg",
       "url": "https://xscriptordev.github.io/badges/social/discord.svg"
     },
     {
-      "name": "github",
+      "name": "Github",
       "path": "social/github.svg",
       "url": "https://xscriptordev.github.io/badges/social/github.svg"
     },
     {
-      "name": "gitlab",
+      "name": "Gitlab",
       "path": "social/gitlab.svg",
       "url": "https://xscriptordev.github.io/badges/social/gitlab.svg"
     },
     {
-      "name": "hackthebox",
+      "name": "Hackthebox",
       "path": "social/hackthebox.svg",
       "url": "https://xscriptordev.github.io/badges/social/hackthebox.svg"
     },
     {
-      "name": "hashnode",
+      "name": "Hashnode",
       "path": "social/hashnode.svg",
       "url": "https://xscriptordev.github.io/badges/social/hashnode.svg"
     },
     {
-      "name": "instagram",
+      "name": "Instagram",
       "path": "social/instagram.svg",
       "url": "https://xscriptordev.github.io/badges/social/instagram.svg"
     },
     {
-      "name": "kaggle",
+      "name": "Kaggle",
       "path": "social/kaggle.svg",
       "url": "https://xscriptordev.github.io/badges/social/kaggle.svg"
     },
     {
-      "name": "leetcode",
+      "name": "Leetcode",
       "path": "social/leetcode.svg",
       "url": "https://xscriptordev.github.io/badges/social/leetcode.svg"
     },
     {
-      "name": "linkedin",
+      "name": "Linkedin",
       "path": "social/linkedin.svg",
       "url": "https://xscriptordev.github.io/badges/social/linkedin.svg"
     },
     {
-      "name": "mastodon",
+      "name": "Mastodon",
       "path": "social/mastodon.svg",
       "url": "https://xscriptordev.github.io/badges/social/mastodon.svg"
     },
     {
-      "name": "medium",
+      "name": "Medium",
       "path": "social/medium.svg",
       "url": "https://xscriptordev.github.io/badges/social/medium.svg"
     },
     {
-      "name": "reddit",
+      "name": "Reddit",
       "path": "social/reddit.svg",
       "url": "https://xscriptordev.github.io/badges/social/reddit.svg"
     },
     {
-      "name": "signal",
+      "name": "Signal",
       "path": "social/signal.svg",
       "url": "https://xscriptordev.github.io/badges/social/signal.svg"
     },
     {
-      "name": "stack-overflow",
+      "name": "Stack-Overflow",
       "path": "social/stack-overflow.svg",
       "url": "https://xscriptordev.github.io/badges/social/stack-overflow.svg"
     },
     {
-      "name": "telegram",
+      "name": "Telegram",
       "path": "social/telegram.svg",
       "url": "https://xscriptordev.github.io/badges/social/telegram.svg"
     },
     {
-      "name": "tryhackme",
+      "name": "Tryhackme",
       "path": "social/tryhackme.svg",
       "url": "https://xscriptordev.github.io/badges/social/tryhackme.svg"
     },
     {
-      "name": "twitch",
+      "name": "Twitch",
       "path": "social/twitch.svg",
       "url": "https://xscriptordev.github.io/badges/social/twitch.svg"
     },
     {
-      "name": "twitter",
+      "name": "Twitter",
       "path": "social/twitter.svg",
       "url": "https://xscriptordev.github.io/badges/social/twitter.svg"
     },
     {
-      "name": "whatsapp",
+      "name": "Whatsapp",
       "path": "social/whatsapp.svg",
       "url": "https://xscriptordev.github.io/badges/social/whatsapp.svg"
     },
     {
-      "name": "x",
+      "name": "X",
       "path": "social/x.svg",
       "url": "https://xscriptordev.github.io/badges/social/x.svg"
     },
     {
-      "name": "youtube",
+      "name": "Youtube",
       "path": "social/youtube.svg",
       "url": "https://xscriptordev.github.io/badges/social/youtube.svg"
     }
   ],
   "Software Badges": [
     {
-      "name": "aircrack-ng",
+      "name": "Aircrack-Ng",
       "path": "software/aircrack-ng.svg",
       "url": "https://xscriptordev.github.io/badges/software/aircrack-ng.svg"
     },
     {
-      "name": "burpsuite",
+      "name": "Burpsuite",
       "path": "software/burpsuite.svg",
       "url": "https://xscriptordev.github.io/badges/software/burpsuite.svg"
     },
     {
-      "name": "ghidra",
+      "name": "Ghidra",
       "path": "software/ghidra.svg",
       "url": "https://xscriptordev.github.io/badges/software/ghidra.svg"
     },
     {
-      "name": "hashcat",
+      "name": "Hashcat",
       "path": "software/hashcat.svg",
       "url": "https://xscriptordev.github.io/badges/software/hashcat.svg"
     },
     {
-      "name": "john-the-ripper",
+      "name": "John-The-Ripper",
       "path": "software/john-the-ripper.svg",
       "url": "https://xscriptordev.github.io/badges/software/john-the-ripper.svg"
     },
     {
-      "name": "metasploit",
+      "name": "Metasploit",
       "path": "software/metasploit.svg",
       "url": "https://xscriptordev.github.io/badges/software/metasploit.svg"
     },
     {
-      "name": "nmap",
+      "name": "Nmap",
       "path": "software/nmap.svg",
       "url": "https://xscriptordev.github.io/badges/software/nmap.svg"
     },
     {
-      "name": "wireshark",
+      "name": "Wireshark",
       "path": "software/wireshark.svg",
       "url": "https://xscriptordev.github.io/badges/software/wireshark.svg"
     },
     {
-      "name": "xfetch",
+      "name": "Xclock",
+      "path": "software/xclock.svg",
+      "url": "https://xscriptordev.github.io/badges/software/xclock.svg"
+    },
+    {
+      "name": "Xfetch",
       "path": "software/xfetch.svg",
       "url": "https://xscriptordev.github.io/badges/software/xfetch.svg"
     },
     {
-      "name": "xtop",
+      "name": "Xtop",
       "path": "software/xtop.svg",
       "url": "https://xscriptordev.github.io/badges/software/xtop.svg"
     }
   ],
   "Terminal Badges": [
     {
-      "name": "LICENSE",
+      "name": "License",
       "path": "terminal/LICENSE.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/LICENSE.svg"
     },
     {
-      "name": "README.md",
-      "path": "terminal/README.md.svg",
-      "url": "https://xscriptordev.github.io/badges/terminal/README.md.svg"
-    },
-    {
-      "name": "alacritty",
+      "name": "Alacritty",
       "path": "terminal/alacritty.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/alacritty.svg"
     },
     {
-      "name": "assets",
-      "path": "terminal/assets.svg",
-      "url": "https://xscriptordev.github.io/badges/terminal/assets.svg"
-    },
-    {
-      "name": "foot",
+      "name": "Foot",
       "path": "terminal/foot.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/foot.svg"
     },
     {
-      "name": "ghostty",
+      "name": "Ghostty",
       "path": "terminal/ghostty.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/ghostty.svg"
     },
     {
-      "name": "gnome-terminal",
+      "name": "Gnome-Terminal",
       "path": "terminal/gnome-terminal.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/gnome-terminal.svg"
     },
     {
-      "name": "hyper",
+      "name": "Hyper",
       "path": "terminal/hyper.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/hyper.svg"
     },
     {
-      "name": "iterm",
+      "name": "Iterm",
       "path": "terminal/iterm.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/iterm.svg"
     },
     {
-      "name": "kitty",
+      "name": "Kitty",
       "path": "terminal/kitty.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/kitty.svg"
     },
     {
-      "name": "konsole",
+      "name": "Konsole",
       "path": "terminal/konsole.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/konsole.svg"
     },
     {
-      "name": "mobaxterm",
+      "name": "Mobaxterm",
       "path": "terminal/mobaxterm.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/mobaxterm.svg"
     },
     {
-      "name": "powershell",
+      "name": "Powershell",
       "path": "terminal/powershell.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/powershell.svg"
     },
     {
-      "name": "ptyxis",
+      "name": "Ptyxis",
       "path": "terminal/ptyxis.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/ptyxis.svg"
     },
     {
-      "name": "putty",
+      "name": "Putty",
       "path": "terminal/putty.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/putty.svg"
     },
     {
-      "name": "references.md",
-      "path": "terminal/references.md.svg",
-      "url": "https://xscriptordev.github.io/badges/terminal/references.md.svg"
-    },
-    {
-      "name": "roadmap.md",
-      "path": "terminal/roadmap.md.svg",
-      "url": "https://xscriptordev.github.io/badges/terminal/roadmap.md.svg"
-    },
-    {
-      "name": "terminal.app",
+      "name": "Terminal.App",
       "path": "terminal/terminal.app.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/terminal.app.svg"
     },
     {
-      "name": "terminator",
+      "name": "Terminator",
       "path": "terminal/terminator.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/terminator.svg"
     },
     {
-      "name": "termux",
+      "name": "Termux",
       "path": "terminal/termux.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/termux.svg"
     },
     {
-      "name": "tilix",
+      "name": "Tilix",
       "path": "terminal/tilix.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/tilix.svg"
     },
     {
-      "name": "warp",
+      "name": "Warp",
       "path": "terminal/warp.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/warp.svg"
     },
     {
-      "name": "wezterm",
+      "name": "Wezterm",
       "path": "terminal/wezterm.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/wezterm.svg"
     },
     {
-      "name": "xfce",
+      "name": "Xfce",
       "path": "terminal/xfce.svg",
       "url": "https://xscriptordev.github.io/badges/terminal/xfce.svg"
     }
   ],
   "Text Editors": [
     {
-      "name": "atom",
+      "name": "Atom",
       "path": "editors/atom.svg",
       "url": "https://xscriptordev.github.io/badges/editors/atom.svg"
     },
     {
-      "name": "code-oss",
+      "name": "Code-Oss",
       "path": "editors/code-oss.svg",
       "url": "https://xscriptordev.github.io/badges/editors/code-oss.svg"
     },
     {
-      "name": "cursor",
+      "name": "Cursor",
       "path": "editors/cursor.svg",
       "url": "https://xscriptordev.github.io/badges/editors/cursor.svg"
     },
     {
-      "name": "emacs",
+      "name": "Emacs",
       "path": "editors/emacs.svg",
       "url": "https://xscriptordev.github.io/badges/editors/emacs.svg"
     },
     {
-      "name": "nano",
+      "name": "Fresh",
+      "path": "editors/fresh.svg",
+      "url": "https://xscriptordev.github.io/badges/editors/fresh.svg"
+    },
+    {
+      "name": "Helix",
+      "path": "editors/helix.svg",
+      "url": "https://xscriptordev.github.io/badges/editors/helix.svg"
+    },
+    {
+      "name": "Nano",
       "path": "editors/nano.svg",
       "url": "https://xscriptordev.github.io/badges/editors/nano.svg"
     },
     {
-      "name": "neovim",
+      "name": "Neovim",
       "path": "editors/neovim.svg",
       "url": "https://xscriptordev.github.io/badges/editors/neovim.svg"
     },
     {
-      "name": "notepad++",
+      "name": "Notepad++",
       "path": "editors/notepad++.svg",
       "url": "https://xscriptordev.github.io/badges/editors/notepad++.svg"
     },
     {
-      "name": "sublime-text",
+      "name": "Sublime-Text",
       "path": "editors/sublime-text.svg",
       "url": "https://xscriptordev.github.io/badges/editors/sublime-text.svg"
     },
     {
-      "name": "vim",
+      "name": "Vim",
       "path": "editors/vim.svg",
       "url": "https://xscriptordev.github.io/badges/editors/vim.svg"
     },
     {
-      "name": "vscode",
+      "name": "Vscode",
       "path": "editors/vscode.svg",
       "url": "https://xscriptordev.github.io/badges/editors/vscode.svg"
     },
     {
-      "name": "vscodium",
+      "name": "Vscodium",
       "path": "editors/vscodium.svg",
       "url": "https://xscriptordev.github.io/badges/editors/vscodium.svg"
     }

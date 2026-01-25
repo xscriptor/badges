@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="123.0" height="28" role="img" aria-label="mastodon">
-  <title>mastodon</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="123.0" height="28" role="img" aria-label="Mastodon">
+  <title>Mastodon</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#fc618d"/>
+    <rect width="35" height="28" fill="#fce566"/>
     <rect x="35" width="88.0" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
@@ -12,6 +12,6 @@
     <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="79.0" y="19.0" font-weight="bold" fill="#ffffff">mastodon</text>
+    <text x="79.0" y="19.0" font-weight="bold" fill="#ffffff">Mastodon</text>
   </g>
 </svg>

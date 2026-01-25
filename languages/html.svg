@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="html">
-  <title>html</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="89.0" height="28" role="img" aria-label="Html">
+  <title>Html</title>
   <g shape-rendering="crispEdges">
     <rect width="35" height="28" fill="#fd9353"/>
     <rect x="35" width="54.0" height="28" fill="#161b22"/>
@@ -12,6 +12,6 @@
     <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="62.0" y="19.0" font-weight="bold" fill="#ffffff">html</text>
+    <text x="62.0" y="19.0" font-weight="bold" fill="#ffffff">Html</text>
   </g>
 </svg>

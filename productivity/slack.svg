@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="slack">
-  <title>slack</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="97.5" height="28" role="img" aria-label="Slack">
+  <title>Slack</title>
   <g shape-rendering="crispEdges">
-    <rect width="35" height="28" fill="#fce566"/>
+    <rect width="35" height="28" fill="#7bd88f"/>
     <rect x="35" width="62.5" height="28" fill="#161b22"/>
   </g>
   <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="14">
@@ -12,6 +12,6 @@
     <text x="35" y="19.0" text-anchor="middle" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" fill="#ffffff">X</text>
     
     <!-- Label -->
-    <text x="66.25" y="19.0" font-weight="bold" fill="#ffffff">slack</text>
+    <text x="66.25" y="19.0" font-weight="bold" fill="#ffffff">Slack</text>
   </g>
 </svg>

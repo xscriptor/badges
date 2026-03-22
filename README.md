@@ -11,12 +11,12 @@ You can use these badges directly from the GitHub repository or via GitHub Pages
 
 ### Markdown Example
 ```markdown
-![Badge Name](https://xscriptordev.github.io/badges/category/badge-name.svg)
+![Badge Name](https://xscriptor.github.io/badges/category/badge-name.svg)
 ```
 
 ### HTML Example
 ```html
-<img src="https://xscriptordev.github.io/badges/category/badge-name.svg" alt="Badge Name" />
+<img src="https://xscriptor.github.io/badges/category/badge-name.svg" alt="Badge Name" />
 ```
 
 </details>

@@ -1386,7 +1386,7 @@ def generate_index_html():
         
         for item in extended_items:
             safe_name = item.replace(" ", "_")
-            url = f"https://xscriptordev.github.io/badges/{subdir}/{safe_name}.svg"
+            url = f"https://xscriptor.github.io/badges/{subdir}/{safe_name}.svg"
             local_path = f"{subdir}/{safe_name}.svg"
             html_content += f'<div class="badge-item" onclick="copyToClipboard(\'{url}\')" data-name="{item}" data-url="{url}"><img src="{local_path}" alt="{item}" loading="lazy"></div>'
             
@@ -1758,11 +1758,11 @@ def main():
     content += "<details>\n<summary><strong>Expand Usage Examples</strong></summary>\n\n"
     content += "### Markdown Example\n"
     content += "```markdown\n"
-    content += "![Badge Name](https://xscriptordev.github.io/badges/category/badge-name.svg)\n"
+    content += "![Badge Name](https://xscriptor.github.io/badges/category/badge-name.svg)\n"
     content += "```\n\n"
     content += "### HTML Example\n"
     content += "```html\n"
-    content += '<img src="https://xscriptordev.github.io/badges/category/badge-name.svg" alt="Badge Name" />\n'
+    content += '<img src="https://xscriptor.github.io/badges/category/badge-name.svg" alt="Badge Name" />\n'
     content += "```\n\n"
     content += "</details>\n\n"
     
@@ -1814,7 +1814,7 @@ def generate_badges_json(categories, subdirs_map, base_dir):
         for item in items:
             safe_name = item.replace(" ", "_")
             rel_path = f"{subdir}/{safe_name}.svg"
-            url = f"https://xscriptordev.github.io/badges/{subdir}/{safe_name}.svg"
+            url = f"https://xscriptor.github.io/badges/{subdir}/{safe_name}.svg"
             
             badges_list.append({
                 "name": format_badge_name(item),
